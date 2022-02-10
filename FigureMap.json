@@ -34085,106 +34085,6 @@
       ]
     },
     {
-      "id": "hat_U_wwobscrown",
-      "revision": 990000195,
-      "parts": [
-        {
-          "id": 6361,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_purpbcrown",
-      "revision": 990000194,
-      "parts": [
-        {
-          "id": 9301,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_preencrown",
-      "revision": 990000193,
-      "parts": [
-        {
-          "id": 9336,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_oblckcrown",
-      "revision": 990000192,
-      "parts": [
-        {
-          "id": 6430,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_mistycrwn2",
-      "revision": 990000191,
-      "parts": [
-        {
-          "id": 8539,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_mistycrwn1",
-      "revision": 990000190,
-      "parts": [
-        {
-          "id": 5829,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_breencrown",
-      "revision": 990000189,
-      "parts": [
-        {
-          "id": 4666,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_bredscrown",
-      "revision": 990000188,
-      "parts": [
-        {
-          "id": 6066,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_bpurpcrown",
-      "revision": 990000187,
-      "parts": [
-        {
-          "id": 6660,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_borgecrown",
-      "revision": 990000186,
-      "parts": [
-        {
-          "id": 6606,
-          "type": "ha"
-        }
-      ]
-    },
-    {
       "id": "bsstonino_U_giubbottofigo",
       "revision": 434343214,
       "parts": [
@@ -34415,16 +34315,6 @@
         {
           "id": 7415,
           "type": "ch"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_maroocrown",
-      "revision": 990000101,
-      "parts": [
-        {
-          "id": 5243,
-          "type": "ha"
         }
       ]
     },
