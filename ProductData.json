@@ -2,6 +2,36 @@
   "productdata": {
     "product": [
 	{
+        "code": "cloudie_throne*6",
+        "name": "Ijs Troon",
+        "description": ""
+      },
+	  {
+        "code": "cloudie_throne*5",
+        "name": "Groene Troon",
+        "description": ""
+      },
+	  {
+        "code": "cloudie_throne*4",
+        "name": "Blauwe Troon",
+        "description": ""
+      },
+	  {
+        "code": "cloudie_throne*3",
+        "name": "Roze Troon",
+        "description": ""
+      },
+	  {
+        "code": "cloudie_throne*2",
+        "name": "Rode Troon",
+        "description": ""
+      },
+	  {
+        "code": "cloudie_throne*1",
+        "name": "Oranje Troon",
+        "description": ""
+      },
+	{
         "code": "cloudie_throne*0",
         "name": "Gele Troon",
         "description": ""
