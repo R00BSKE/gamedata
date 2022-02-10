@@ -12683,16 +12683,6 @@
       ]
     },
     {
-      "id": "hat_U_leet4",
-      "revision": 1337,
-      "parts": [
-        {
-          "id": 6673,
-          "type": "ha"
-        }
-      ]
-    },
-    {
       "id": "acc_face_U_leed",
       "revision": 1337,
       "parts": [
@@ -12902,16 +12892,6 @@
       "parts": [
         {
           "id": 8446,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_leet93",
-      "revision": 1337,
-      "parts": [
-        {
-          "id": 9786,
           "type": "ha"
         }
       ]
@@ -15071,90 +15051,6 @@
       ]
     },
     {
-      "id": "hat_U_caspay1",
-      "revision": 5347,
-      "parts": [
-        {
-          "id": 5347,
-          "type": "ha"
-        },
-        {
-          "id": 5348,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_caspay2",
-      "revision": 5457,
-      "parts": [
-        {
-          "id": 5457,
-          "type": "ha"
-        },
-        {
-          "id": 5458,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_caspay3",
-      "revision": 5557,
-      "parts": [
-        {
-          "id": 5557,
-          "type": "ha"
-        },
-        {
-          "id": 5558,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_casapsg",
-      "revision": 6167,
-      "parts": [
-        {
-          "id": 6167,
-          "type": "ha"
-        },
-        {
-          "id": 6168,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_nikecak",
-      "revision": 6277,
-      "parts": [
-        {
-          "id": 6277,
-          "type": "ha"
-        },
-        {
-          "id": 6278,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_supremk",
-      "revision": 6387,
-      "parts": [
-        {
-          "id": 6387,
-          "type": "ha"
-        },
-        {
-          "id": 6388,
-          "type": "ha"
-        }
-      ]
-    },
-    {
       "id": "hat_U_shamt",
       "revision": 5925,
       "parts": [
@@ -16325,16 +16221,6 @@
         {
           "id": 3074,
           "type": "lg"
-        }
-      ]
-    },
-    {
-      "id": "hat_cac_nag",
-      "revision": 1337,
-      "parts": [
-        {
-          "id": 7802,
-          "type": "ha"
         }
       ]
     },
@@ -18653,24 +18539,6 @@
       ]
     },
     {
-      "id": "hat_U_mascara01",
-      "revision": 9029,
-      "parts": [
-        {
-          "id": 9029,
-          "type": "ha"
-        },
-        {
-          "id": 9030,
-          "type": "ha"
-        },
-        {
-          "id": 9031,
-          "type": "ha"
-        }
-      ]
-    },
-    {
       "id": "hat_U_nikeswea",
       "revision": 5586282,
       "parts": [
@@ -18680,76 +18548,6 @@
         },
         {
           "id": 6842,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_cuteemask",
-      "revision": 5989405,
-      "parts": [
-        {
-          "id": 7584,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_zombimask",
-      "revision": 5989945,
-      "parts": [
-        {
-          "id": 6224,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "acc_U_antlers15",
-      "revision": 8485441,
-      "parts": [
-        {
-          "id": 9466,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_king1",
-      "revision": 9189331,
-      "parts": [
-        {
-          "id": 9191,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_tiger",
-      "revision": 37989749,
-      "parts": [
-        {
-          "id": 7383,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_pacman",
-      "revision": 59155487,
-      "parts": [
-        {
-          "id": 6306,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_hatttbear",
-      "revision": 58780,
-      "parts": [
-        {
-          "id": 6932,
           "type": "ha"
         }
       ]
@@ -20629,34 +20427,6 @@
       ]
     },
     {
-      "id": "hat_U_lion_black",
-      "revision": 281013,
-      "parts": [
-        {
-          "id": 6683,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "Hat_U_sombrera",
-      "revision": 96587,
-      "parts": [
-        {
-          "id": 9143,
-          "type": "ha"
-        },
-        {
-          "id": 9144,
-          "type": "ha"
-        },
-        {
-          "id": 9145,
-          "type": "ha"
-        }
-      ]
-    },
-    {
       "id": "hat_U_furcad",
       "revision": 151213,
       "parts": [
@@ -20671,31 +20441,11 @@
       ]
     },
     {
-      "id": "hat_U_leeuw",
-      "revision": 5182,
-      "parts": [
-        {
-          "id": 5182,
-          "type": "ha"
-        }
-      ]
-    },
-    {
       "id": "hat_U_pudding",
       "revision": 87050214,
       "parts": [
         {
           "id": 6690,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_elfenmuts",
-      "revision": 78141213,
-      "parts": [
-        {
-          "id": 6687,
           "type": "ha"
         }
       ]
@@ -34695,16 +34445,6 @@
       ]
     },
     {
-      "id": "hat_U_rastacrown",
-      "revision": 989999966,
-      "parts": [
-        {
-          "id": 4204,
-          "type": "ha"
-        }
-      ]
-    },
-    {
       "id": "wibbo_dbz_jacket_1",
       "revision": 989999965,
       "parts": [
@@ -35100,36 +34840,6 @@
       "parts": [
         {
           "id": 9431,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_ironm",
-      "revision": 874624578,
-      "parts": [
-        {
-          "id": 9361,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_mickcey",
-      "revision": 874624577,
-      "parts": [
-        {
-          "id": 9363,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_spidr",
-      "revision": 874624576,
-      "parts": [
-        {
-          "id": 9452,
           "type": "ha"
         }
       ]
