@@ -2,6 +2,16 @@
   "productdata": {
     "product": [
 	{
+        "code": "outils_yvess",
+        "name": "Hamer",
+        "description": ""
+      },
+	{
+        "code": "outils_yvess2",
+        "name": "Gereedschap",
+        "description": ""
+      },
+	{
         "code": "perso_chantier",
         "name": "Werkkracht 2",
         "description": ""
