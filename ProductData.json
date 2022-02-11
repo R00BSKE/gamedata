@@ -2,6 +2,36 @@
   "productdata": {
     "product": [
 	{
+        "code": "perso_chantier",
+        "name": "Werkkracht 2",
+        "description": ""
+      },
+	{
+        "code": "perso_chantier1",
+        "name": "Werkkracht 1",
+        "description": ""
+      },
+	{
+        "code": "piqueur_yvess",
+        "name": "Drilboor",
+        "description": ""
+      },
+	{
+        "code": "pot_peinture",
+        "name": "Verfpot",
+        "description": ""
+      },
+	{
+        "code": "sol2_yvess1x1",
+        "name": "Vloersteen 1x1",
+        "description": ""
+      },
+	{
+        "code": "sol2_yvess2x2",
+        "name": "Vloersteen 2x2",
+        "description": ""
+      },
+	{
         "code": "tapis_chantier",
         "name": "Bouwwerf 2 ",
         "description": ""
@@ -18,7 +48,7 @@
       },
 	{
         "code": "GRUDGE_city_television",
-        "name": "Televisie",
+        "name": " Grudge Televisie",
         "description": ""
       },
 	{
