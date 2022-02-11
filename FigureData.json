@@ -63051,24 +63051,6 @@
             ]
           },
           {
-            "id": 8558,
-            "gender": "U",
-            "club": 0,
-            "colorable": true,
-            "selectable": true,
-            "preselectable": false,
-            "sellable": false,
-            "parts": [
-              {
-                "id": 1754,
-                "type": "ha",
-                "colorable": true,
-                "index": 1,
-                "colorindex": 1
-              }
-            ]
-          },
-          {
             "id": 8560,
             "gender": "U",
             "club": 0,
@@ -66927,29 +66909,6 @@
             ]
           },
           {
-            "id": 987463047,
-            "gender": "U",
-            "club": 0,
-            "colorable": false,
-            "selectable": true,
-            "preselectable": false,
-            "sellable": false,
-            "parts": [
-              {
-                "id": 5098,
-                "type": "ha",
-                "colorable": false,
-                "index": 0,
-                "colorindex": 0
-              }
-            ],
-            "hiddenLayers": [
-              {
-                "partType": "hrb"
-              }
-            ]
-          },
-          {
             "id": 990000152,
             "gender": "U",
             "club": 0,
@@ -67558,7 +67517,7 @@
             "colorable": false,
             "selectable": true,
             "preselectable": false,
-            "sellable": false,
+            "sellable": true,
             "parts": [
               {
                 "id": 9786,
@@ -67578,31 +67537,13 @@
             ]
           },
           {
-            "id": 989999884,
-            "gender": "U",
-            "club": 0,
-            "colorable": true,
-            "selectable": true,
-            "preselectable": false,
-            "sellable": false,
-            "parts": [
-              {
-                "id": 1754,
-                "type": "ha",
-                "colorable": true,
-                "index": 1,
-                "colorindex": 1
-              }
-            ]
-          },
-          {
             "id": 989999873,
             "gender": "U",
             "club": 0,
             "colorable": false,
             "selectable": true,
             "preselectable": false,
-            "sellable": false,
+            "sellable": true,
             "parts": [
               {
                 "id": 7273,
@@ -67643,7 +67584,7 @@
             "colorable": false,
             "selectable": true,
             "preselectable": false,
-            "sellable": false,
+            "sellable": true,
             "parts": [
               {
                 "id": 7274,
