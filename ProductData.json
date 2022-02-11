@@ -2,6 +2,41 @@
   "productdata": {
     "product": [
 	{
+        "code": "GRUDGE_city_television",
+        "name": "Televisie",
+        "description": ""
+      },
+	{
+        "code": "GRUDGE_city_etagere",
+        "name": "Grudge Boekenkast",
+        "description": ""
+      },
+	{
+        "code": "GRUDGE_city_livre",
+        "name": "Grudge Boeken",
+        "description": ""
+      },
+	{
+        "code": "GRUDGE_city_plante",
+        "name": "Grudge Plant",
+        "description": ""
+      },
+	{
+        "code": "GRUDGE_city_siege",
+        "name": "Grudge Bank",
+        "description": ""
+      },
+	{
+        "code": "GRUDGE_city_table",
+        "name": "Grudge Tafel",
+        "description": ""
+      },
+	{
+        "code": "GRUDGE_city_tasse",
+        "name": "Grudge Mok",
+        "description": ""
+      },
+	{
         "code": "GRUDGE_city_telecommande",
         "name": "Grudge Afstandsbediening",
         "description": ""
