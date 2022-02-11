@@ -2,6 +2,11 @@
   "productdata": {
     "product": [
 	{
+        "code": "GRUDGE_city_telecommande",
+        "name": "Grudge Afstandsbediening",
+        "description": "Zappen tot je niet meer kan!"
+      },
+	{
         "code": "Yvess5_marbre_elegant",
         "name": "Naam",
         "description": ""
