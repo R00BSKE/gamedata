@@ -12907,26 +12907,6 @@
       ]
     },
     {
-      "id": "hat_U_leet97",
-      "revision": 1337,
-      "parts": [
-        {
-          "id": 7786,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_leet98",
-      "revision": 1337,
-      "parts": [
-        {
-          "id": 8786,
-          "type": "ha"
-        }
-      ]
-    },
-    {
       "id": "shirt_M_leetrocks9",
       "revision": 1337,
       "parts": [
@@ -32097,28 +32077,6 @@
       ]
     },
     {
-      "id": "bsstonino_U_emoctionabbraccio",
-      "revision": 987463024,
-      "parts": [
-        {
-          "id": 7174,
-          "type": "ch"
-        },
-        {
-          "id": 7174,
-          "type": "ls"
-        },
-        {
-          "id": 7174,
-          "type": "rs"
-        },
-        {
-          "id": 7175,
-          "type": "ch"
-        }
-      ]
-    },
-    {
       "id": "bsstonino_U_lacasadicarta",
       "revision": 7438,
       "parts": [
@@ -34767,26 +34725,6 @@
       ]
     },
     {
-      "id": "hat_U_trole6",
-      "revision": 874624571,
-      "parts": [
-        {
-          "id": 8786,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_trole5",
-      "revision": 874624570,
-      "parts": [
-        {
-          "id": 7786,
-          "type": "ha"
-        }
-      ]
-    },
-    {
       "id": "jacket_U_risewatch01",
       "revision": 874624568,
       "parts": [
@@ -34922,20 +34860,6 @@
       "parts": [
         {
           "id": 7485,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_sideha5",
-      "revision": 987462891,
-      "parts": [
-        {
-          "id": 7573,
-          "type": "ha"
-        },
-        {
-          "id": 7574,
           "type": "ha"
         }
       ]
