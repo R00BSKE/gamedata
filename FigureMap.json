@@ -11797,16 +11797,6 @@
       ]
     },
     {
-      "id": "hat_U_rcrown",
-      "revision": 1337,
-      "parts": [
-        {
-          "id": 1754,
-          "type": "ha"
-        }
-      ]
-    },
-    {
       "id": "hair_F_iccismooo1",
       "revision": 1337,
       "parts": [
@@ -32599,16 +32589,6 @@
       ]
     },
     {
-      "id": "hat_U_marshmall",
-      "revision": 987463047,
-      "parts": [
-        {
-          "id": 5098,
-          "type": "ha"
-        }
-      ]
-    },
-    {
       "id": "jacket_M_PhilippPlein1",
       "revision": 987463106,
       "parts": [
@@ -34644,16 +34624,6 @@
       "parts": [
         {
           "id": 9786,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_jcrown",
-      "revision": 989999884,
-      "parts": [
-        {
-          "id": 1754,
           "type": "ha"
         }
       ]
