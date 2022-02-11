@@ -12023,16 +12023,6 @@
       ]
     },
     {
-      "id": "hat_U_leete",
-      "revision": 1337,
-      "parts": [
-        {
-          "id": 9431,
-          "type": "ha"
-        }
-      ]
-    },
-    {
       "id": "hat_U_leetd",
       "revision": 1337,
       "parts": [
@@ -12992,20 +12982,6 @@
       "parts": [
         {
           "id": 6553,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_leet183",
-      "revision": 1337,
-      "parts": [
-        {
-          "id": 7573,
-          "type": "ha"
-        },
-        {
-          "id": 7574,
           "type": "ha"
         }
       ]
@@ -32121,26 +32097,6 @@
       ]
     },
     {
-      "id": "hat_U_solideoiron",
-      "revision": 394839486,
-      "parts": [
-        {
-          "id": 12000001,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "bsstonino_U_birillo",
-      "revision": 987463171,
-      "parts": [
-        {
-          "id": 6632,
-          "type": "ha"
-        }
-      ]
-    },
-    {
       "id": "bsstonino_U_emoctionabbraccio",
       "revision": 987463024,
       "parts": [
@@ -34027,28 +33983,6 @@
       ]
     },
     {
-      "id": "shirt_U_champ",
-      "revision": 990000108,
-      "parts": [
-        {
-          "id": 7414,
-          "type": "ch"
-        },
-        {
-          "id": 7414,
-          "type": "ls"
-        },
-        {
-          "id": 7414,
-          "type": "rs"
-        },
-        {
-          "id": 7415,
-          "type": "ch"
-        }
-      ]
-    },
-    {
       "id": "hat_U_martiara",
       "revision": 990000100,
       "parts": [
@@ -34805,16 +34739,6 @@
       ]
     },
     {
-      "id": "hat_U_batmn",
-      "revision": 874624579,
-      "parts": [
-        {
-          "id": 9431,
-          "type": "ha"
-        }
-      ]
-    },
-    {
       "id": "jacket_U_risewatch02",
       "revision": 874624573,
       "parts": [
@@ -34988,16 +34912,6 @@
         },
         {
           "id": 76767689,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "bsstonino_U_kermitlarana",
-      "revision": 987463074,
-      "parts": [
-        {
-          "id": 7771,
           "type": "ha"
         }
       ]
@@ -35207,16 +35121,6 @@
         {
           "id": 11123,
           "type": "sh"
-        }
-      ]
-    },
-    {
-      "id": "bsstonino_U_duftpunkuno",
-      "revision": 987462920,
-      "parts": [
-        {
-          "id": 5601,
-          "type": "ha"
         }
       ]
     },
@@ -36190,270 +36094,6 @@
         },
         {
           "id": 4151,
-          "type": "ch"
-        }
-      ]
-    },
-    {
-      "id": "shirt_M_GStat",
-      "revision": 987463001,
-      "parts": [
-        {
-          "id": 5050,
-          "type": "ch"
-        },
-        {
-          "id": 5050,
-          "type": "ls"
-        },
-        {
-          "id": 5050,
-          "type": "rs"
-        },
-        {
-          "id": 5051,
-          "type": "ch"
-        }
-      ]
-    },
-    {
-      "id": "shirt_F_GStat",
-      "revision": 987463002,
-      "parts": [
-        {
-          "id": 5052,
-          "type": "ch"
-        },
-        {
-          "id": 5052,
-          "type": "ls"
-        },
-        {
-          "id": 5052,
-          "type": "rs"
-        },
-        {
-          "id": 5053,
-          "type": "ch"
-        }
-      ]
-    },
-    {
-      "id": "shirt_M_Laker",
-      "revision": 987463003,
-      "parts": [
-        {
-          "id": 5054,
-          "type": "ch"
-        },
-        {
-          "id": 5054,
-          "type": "ls"
-        },
-        {
-          "id": 5054,
-          "type": "rs"
-        },
-        {
-          "id": 5055,
-          "type": "ch"
-        }
-      ]
-    },
-    {
-      "id": "shirt_F_Laker",
-      "revision": 987463004,
-      "parts": [
-        {
-          "id": 5056,
-          "type": "ch"
-        },
-        {
-          "id": 5056,
-          "type": "ls"
-        },
-        {
-          "id": 5056,
-          "type": "rs"
-        },
-        {
-          "id": 5057,
-          "type": "ch"
-        }
-      ]
-    },
-    {
-      "id": "shirt_M_Bucks",
-      "revision": 987463005,
-      "parts": [
-        {
-          "id": 5058,
-          "type": "ch"
-        },
-        {
-          "id": 5058,
-          "type": "ls"
-        },
-        {
-          "id": 5058,
-          "type": "rs"
-        },
-        {
-          "id": 5059,
-          "type": "ch"
-        }
-      ]
-    },
-    {
-      "id": "shirt_F_Bucks",
-      "revision": 987463006,
-      "parts": [
-        {
-          "id": 5060,
-          "type": "ch"
-        },
-        {
-          "id": 5060,
-          "type": "ls"
-        },
-        {
-          "id": 5060,
-          "type": "rs"
-        },
-        {
-          "id": 5061,
-          "type": "ch"
-        }
-      ]
-    },
-    {
-      "id": "shirt_M_Rapto",
-      "revision": 987463007,
-      "parts": [
-        {
-          "id": 5062,
-          "type": "ch"
-        },
-        {
-          "id": 5062,
-          "type": "ls"
-        },
-        {
-          "id": 5062,
-          "type": "rs"
-        },
-        {
-          "id": 5063,
-          "type": "ch"
-        }
-      ]
-    },
-    {
-      "id": "shirt_F_Rapto",
-      "revision": 987463008,
-      "parts": [
-        {
-          "id": 5064,
-          "type": "ch"
-        },
-        {
-          "id": 5064,
-          "type": "ls"
-        },
-        {
-          "id": 5064,
-          "type": "rs"
-        },
-        {
-          "id": 5065,
-          "type": "ch"
-        }
-      ]
-    },
-    {
-      "id": "shirt_M_Clipp",
-      "revision": 987463009,
-      "parts": [
-        {
-          "id": 5066,
-          "type": "ch"
-        },
-        {
-          "id": 5066,
-          "type": "ls"
-        },
-        {
-          "id": 5066,
-          "type": "rs"
-        },
-        {
-          "id": 5067,
-          "type": "ch"
-        }
-      ]
-    },
-    {
-      "id": "shirt_F_Clipp",
-      "revision": 987463010,
-      "parts": [
-        {
-          "id": 5068,
-          "type": "ch"
-        },
-        {
-          "id": 5068,
-          "type": "ls"
-        },
-        {
-          "id": 5068,
-          "type": "rs"
-        },
-        {
-          "id": 5069,
-          "type": "ch"
-        }
-      ]
-    },
-    {
-      "id": "shirt_M_Bosto",
-      "revision": 987463011,
-      "parts": [
-        {
-          "id": 5070,
-          "type": "ch"
-        },
-        {
-          "id": 5070,
-          "type": "ls"
-        },
-        {
-          "id": 5070,
-          "type": "rs"
-        },
-        {
-          "id": 5071,
-          "type": "ch"
-        }
-      ]
-    },
-    {
-      "id": "shirt_F_Bosto",
-      "revision": 987463012,
-      "parts": [
-        {
-          "id": 5072,
-          "type": "ch"
-        },
-        {
-          "id": 5072,
-          "type": "ls"
-        },
-        {
-          "id": 5072,
-          "type": "rs"
-        },
-        {
-          "id": 5073,
           "type": "ch"
         }
       ]
