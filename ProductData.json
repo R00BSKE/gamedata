@@ -2,6 +2,21 @@
   "productdata": {
     "product": [
 	{
+        "code": "tapis_chantier",
+        "name": "Bouwwerf 2 ",
+        "description": ""
+      },
+	{
+        "code": "tapis_chantier1",
+        "name": "Bouwwerf 1 ",
+        "description": ""
+      },
+	{
+        "code": "yves_c01_tractor",
+        "name": "Shovel",
+        "description": ""
+      },
+	{
         "code": "GRUDGE_city_television",
         "name": "Televisie",
         "description": ""
