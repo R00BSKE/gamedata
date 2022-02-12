@@ -2,13 +2,43 @@
   "productdata": {
     "product": [
 		{
+            "code": "moderne_krukHML",
+            "name": "BarKruk 'Modern'",
+            "description": ""
+        },
+		{
+            "code": "moderne_stoel",
+            "name": "Stoel 'Modern'",
+            "description": ""
+        },
+		{
+            "code": "moderne__typo",
+            "name": "Typmachine 'Modern'",
+            "description": ""
+        },
+		{
+            "code": "modern_bar",
+            "name": "Bar Tafel 'Modern'",
+            "description": ""
+        },
+		{
+            "code": "modern_tegel1",
+            "name": "Tegel 1 'Modern' ",
+            "description": ""
+        },
+		{
+            "code": "modr_bd",
+            "name": "Papegaai Op Stok 'Modern'",
+            "description": ""
+        },
+		{
             "code": "modr_desk",
-            "name": "Modern Bureaumeubel",
+            "name": "BureauMeubel 'Modern'",
             "description": ""
         },
 		{
             "code": "modr_plant",
-            "name": "Moderne Plant",
+            "name": "Plant 'Modern'",
             "description": ""
         },
 		{
