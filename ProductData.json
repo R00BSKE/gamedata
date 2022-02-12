@@ -2,6 +2,51 @@
   "productdata": {
     "product": [
         {
+            "code": "fw_cafetiere",
+            "name": "Koffiemachine",
+            "description": ""
+        },
+		{
+            "code": "huis_kapstok",
+            "name": "Kapstok",
+            "description": ""
+        },
+		{
+            "code": "huis_tissuebox",
+            "name": "Neusdoeken",
+            "description": ""
+        },
+		{
+            "code": "huis_wasmachine",
+            "name": "Wasmachine",
+            "description": ""
+        },
+		{
+            "code": "living_boxes1",
+            "name": "Speaker",
+            "description": ""
+        },
+		{
+            "code": "overige_fiets_blauw",
+            "name": "Blauwe Fiets",
+            "description": ""
+        },
+		{
+            "code": "plant_c15_tee",
+            "name": "Kamerplant 'Woning'",
+            "description": ""
+        },
+		{
+            "code": "waslijn",
+            "name": "Waslijn",
+            "description": ""
+        },
+		{
+            "code": "fball_sweatshoes",
+            "name": "Zweterige Voetbalschoenen",
+            "description": ""
+        },
+		{
             "code": "mdrn_pura",
             "name": "Pura 'Modern'",
             "description": ""
