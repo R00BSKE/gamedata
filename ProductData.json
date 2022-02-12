@@ -2,6 +2,51 @@
   "productdata": {
     "product": [
         {
+            "code": "Yvess5_Garage_Amplif",
+            "name": "Subwoofer 'Garage'",
+            "description": ""
+        },
+		{
+            "code": "Yvess5_Garage_Batterie",
+            "name": "Batterijen",
+            "description": ""
+        },
+		{
+            "code": "Yvess5_Garage_BoiteCarton",
+            "name": "Kartonnen Doos",
+            "description": ""
+        },
+		{
+            "code": "Yvess5_Garage_Bonbone",
+            "name": "Gasflessen Wagen",
+            "description": ""
+        },
+		{
+            "code": "Yvess5_Garage_Etagere",
+            "name": "Stapelrek 'Garage'",
+            "description": ""
+        },
+		{
+            "code": "Yvess5_Garage_GrosCoffre",
+            "name": "Vakkenkast 'Garage'",
+            "description": ""
+        },
+		{
+            "code": "Yvess5_Garage_Huile1",
+            "name": "Jerrycan 'Garage'",
+            "description": ""
+        },
+		{
+            "code": "Yvess5_Garage_Interupteur",
+            "name": "Lichtschakelaar 'Garage'",
+            "description": ""
+        },
+		{
+            "code": "Yvess5_Garage_Stereo",
+            "name": "Stereo Installatie",
+            "description": ""
+        },
+		{
             "code": "fw_cafetiere",
             "name": "Koffiemachine",
             "description": ""
