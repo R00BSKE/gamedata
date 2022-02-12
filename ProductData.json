@@ -5,6 +5,16 @@
 	
 		
 		{
+            "code": "modr_desk",
+            "name": "Modern Bureaumeubel",
+            "description": ""
+        }
+		{
+            "code": "modr_plant",
+            "name": "Moderne Plant",
+            "description": ""
+        }
+		{
             "code": "falque_ete1",
             "name": "Volleybal Net",
             "description": ""
