@@ -2,6 +2,146 @@
   "productdata": {
     "product": [
 		{
+            "code": "cozy_lights",
+            "name": "Sfeerlichtjes",
+            "description": ""
+        },
+		{
+            "code": "habbox_moderne_shone_3",
+            "name": "Witte Kruk",
+            "description": ""
+        },
+		{
+            "code": "habbox_moderne_shone_4",
+            "name": "Zwarte Kruk",
+            "description": ""
+        },
+		{
+            "code": "habbox_moderne_shone_blc",
+            "name": "Witte Stoel",
+            "description": ""
+        },
+		{
+            "code": "habbox_moderne_shone_cb",
+            "name": "Wit met paarse bank",
+            "description": ""
+        },
+		{
+            "code": "habbox_moderne_shone_chn",
+            "name": "Zwarte Stoel",
+            "description": ""
+        },
+		{
+            "code": "habbox_moderne_shone_cn",
+            "name": "Zwart met paarse bank",
+            "description": ""
+        },
+		{
+            "code": "habbox_moderne_shone_m1",
+            "name": "Modern Zwart Boekenrek",
+            "description": ""
+        },
+		{
+            "code": "habbox_moderne_shone_m2",
+            "name": "Modern Wit Boekenrek",
+            "description": ""
+        },
+		{
+            "code": "habbox_moderne_shone_table_b",
+            "name": "Witte Tafel",
+            "description": ""
+        },
+		{
+            "code": "habbox_moderne_shone_table_n",
+            "name": "Zwarte Tafel",
+            "description": ""
+        },
+		{
+            "code": "bg_os_saeule",
+            "name": "Decoratieve Zuil",
+            "description": ""
+        },
+		{
+            "code": "kitchen19_deco1",
+            "name": "Keukengerei",
+            "description": ""
+        },
+		{
+            "code": "kitchen19_deco2",
+            "name": "Boodschappen",
+            "description": ""
+        },
+		{
+            "code": "kitchen19_deco3",
+            "name": "Voorraadpotten",
+            "description": ""
+        },
+		{
+            "code": "kitchen19_divdr",
+            "name": "Aanrecht",
+            "description": ""
+        },
+		{
+            "code": "kitchen19_divdr2",
+            "name": "Keukenkastje",
+            "description": ""
+        },
+		{
+            "code": "kitchen19_food",
+            "name": "Maaltijd",
+            "description": ""
+        },
+		{
+            "code": "kitchen19_plant",
+            "name": "Kamerplant",
+            "description": ""
+        },
+		{
+            "code": "kitchen19_plant2",
+            "name": "Kamerplant",
+            "description": ""
+        },
+		{
+            "code": "kitchen19_sink",
+            "name": "Aanrecht met spoelbak",
+            "description": ""
+        },
+		{
+            "code": "kitchen19_stove",
+            "name": "Kookplaat",
+            "description": ""
+        },
+		{
+            "code": "st_newcomputer",
+            "name": "Laptop",
+            "description": ""
+        },
+		{
+            "code": "st_newdeko",
+            "name": "Decoratieve Plant",
+            "description": ""
+        },
+		{
+            "code": "st_newlamp",
+            "name": "Staande Lamp",
+            "description": ""
+        },
+		{
+            "code": "st_newplant",
+            "name": "Hoge Plant",
+            "description": ""
+        },
+		{
+            "code": "st_newplate",
+            "name": "Houten schaal",
+            "description": ""
+        },
+		{
+            "code": "st_newstuff",
+            "name": "Stapel papier",
+            "description": ""
+        },
+		{
             "code": "01_caterbody",
             "name": "Roze Banzai Rups lichaam",
             "description": ""

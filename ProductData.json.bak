@@ -2,6 +2,26 @@
   "productdata": {
     "product": [
 		{
+            "code": "01_caterbody",
+            "name": "Roze Banzai Rups lichaam",
+            "description": ""
+        },
+		{
+            "code": "01_caterhead",
+            "name": "Roze Banzai Rups hoofd",
+            "description": ""
+        },
+		{
+            "code": "02_caterbody",
+            "name": "Blauwe Banzai Rups lichaam",
+            "description": ""
+        },
+		{
+            "code": "02_caterhead",
+            "name": "Blauwe Banzai Rups hoofd",
+            "description": ""
+        },
+		{
             "code": "babyblokken_1",
             "name": "Grote Letterblokkentoren",
             "description": ""
