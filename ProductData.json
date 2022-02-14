@@ -2,6 +2,46 @@
   "productdata": {
     "product": [
 		{
+            "code": "bowling_baan",
+            "name": "Bowlingbaan",
+            "description": ""
+        },
+		{
+            "code": "bowling_bal1",
+            "name": "Bowlingbal Grijs",
+            "description": ""
+        },
+		{
+            "code": "bowling_bal2",
+            "name": "Bowlingbal Groen",
+            "description": ""
+        },
+		{
+            "code": "bowling_bal3",
+            "name": "Bowlingbal Blauw",
+            "description": ""
+        },
+		{
+            "code": "bowling_bal4",
+            "name": "Bowlingbal Oranje",
+            "description": ""
+        },
+		{
+            "code": "bowling_bal5",
+            "name": "Bowlingbal Paars",
+            "description": ""
+        },
+		{
+            "code": "bowling_bal6",
+            "name": "Bowlingbal Rood",
+            "description": ""
+        },
+		{
+            "code": "bowling_kegel",
+            "name": "Bowling Kegel",
+            "description": ""
+        },
+		{
             "code": "Yvess5_Street_Barriere_Ceder",
             "name": "Dranghek met bord 'voorang verlenen'",
             "description": ""
