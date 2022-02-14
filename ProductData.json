@@ -2,6 +2,46 @@
   "productdata": {
     "product": [
 		{
+            "code": "Yvess5_Street_Cone",
+            "name": "Verkeerskegel",
+            "description": ""
+        },
+		{
+            "code": "Yvess5_Street_DiversObjet",
+            "name": "Diverse Objecten 'Stad'",
+            "description": ""
+        },
+		{
+            "code": "Yvess5_Street_Lampadaire",
+            "name": "Lantaarnpaal",
+            "description": ""
+        },
+		{
+            "code": "Yvess5_Street_LumiereDroit",
+            "name": "Verkeerslicht",
+            "description": ""
+        },
+		{
+            "code": "Yvess5_Street_Panneau_Ceder",
+            "name": "Verkeersbord 'Voorang Verlenen'",
+            "description": ""
+        },
+		{
+            "code": "Yvess5_Street_Panneau_Interdit",
+            "name": "Verbodsbord 'Verboden Richting'",
+            "description": ""
+        },
+		{
+            "code": "Yvess5_Street_Panneau_Parking",
+            "name": "Bord Parkeren Verboden",
+            "description": ""
+        },
+		{
+            "code": "Yvess5_Street_Panneau_Stop",
+            "name": "Stopbord",
+            "description": ""
+        },
+		{
             "code": "cozy_lights",
             "name": "Sfeerlichtjes",
             "description": ""
