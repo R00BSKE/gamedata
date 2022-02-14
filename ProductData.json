@@ -2,8 +2,23 @@
   "productdata": {
     "product": [
 		{
+            "code": "Yvess5_Street_Barriere_Ceder",
+            "name": "Dranghek met bord 'voorang verlenen'",
+            "description": ""
+        },
+		{
+            "code": "Yvess5_Street_Barriere_Coin",
+            "name": "Drangek Hoeken",
+            "description": ""
+        },
+		{
+            "code": "Yvess5_Street_Barriere_Fleche",
+            "name": "Dranghek met bord 'Verplichte Richting'",
+            "description": ""
+        },
+		{
             "code": "Apo_Grec_PilierCraque",
-            "name": "Marmeren Pilaar'",
+            "name": "Marmeren Pilaar",
             "description": ""
         },
 		{
