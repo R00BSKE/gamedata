@@ -2,6 +2,61 @@
   "productdata": {
     "product": [
 		{
+            "code": "Yvess5_Street_Barriere_Interdi",
+            "name": "Dranghek met bord 'Verboden Richting'",
+            "description": ""
+        },
+		{
+            "code": "Yvess5_Street_Barriere_Parking",
+            "name": "Dranghek 'Verboden Te Parkeren'",
+            "description": ""
+        },
+		{
+            "code": "Yvess5_Street_Barriere_Stop",
+            "name": "Dranghek Met Stopbord",
+            "description": ""
+        },
+		{
+            "code": "Yvess5_Street_Barriere_Vide",
+            "name": "Dranghek",
+            "description": ""
+        },
+		{
+            "code": "Yvess5_Street_BorneFontaine",
+            "name": "Brandkraan",
+            "description": ""
+        },
+		{
+            "code": "Yvess5_Street_Brique",
+            "name": "Baksteen met lamp",
+            "description": ""
+        },
+		{
+            "code": "Yvess5_Street_Cloture_1",
+            "name": "Houten Wand 1 'Stad'",
+            "description": ""
+        },
+		{
+            "code": "Yvess5_Street_Cloture_2",
+            "name": "Houten Wand 2 'Stad'",
+            "description": ""
+        },
+		{
+            "code": "Yvess5_Street_Cloture_3",
+            "name": "Houten Wand 3 'Stad'",
+            "description": ""
+        },
+		{
+            "code": "Yvess5_Street_Cloture_4",
+            "name": "Houten Wand 4 'Stad'",
+            "description": ""
+        },
+		{
+            "code": "Yvess5_Street_Cloture_5",
+            "name": "Houten Wand 5 'Stad'",
+            "description": ""
+        },
+		{
             "code": "Yvess5_Street_Cone",
             "name": "Verkeerskegel",
             "description": ""
