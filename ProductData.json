@@ -2,6 +2,26 @@
   "productdata": {
     "product": [
 		{
+            "code": "adobe_salonkast",
+            "name": "Salonkast 'Donker'",
+            "description": ""
+        },
+		{
+            "code": "adobe_sink_01",
+            "name": "Wasbak 'Donker'",
+            "description": ""
+        },
+		{
+            "code": "adobe_tafel",
+            "name": "Tafel 'Donker'",
+            "description": ""
+        },
+		{
+            "code": "adobe_trash",
+            "name": "Afvalbak 'Donker'",
+            "description": ""
+        },
+		{
             "code": "bowling_baan",
             "name": "Bowlingbaan",
             "description": ""
