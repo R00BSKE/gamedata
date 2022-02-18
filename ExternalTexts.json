@@ -1359,7 +1359,7 @@
 	"achievements.levelup.close": "Sluit",
 	"achievements.levelup.desc": "You unlocked the Achievement",
 	"achievements.levelup.ok": "OK",
-	"achievements.levelup.reward": "Achievement: <b><font size="30" color="#7adde9">%amount%</font></b> %currency_name%",
+	"achievements.levelup.reward": "Achievement: <b>",
 	"achievements.levelup.score": "<b>+%amount%</b> Achievement score gehaald!",
 	"achievements.levelup.share": "Get your Reward",
 	"achievements.levelup.sharedesc": "<b>Note:</b>: Get additional <b>%amount%</b> points by sharing your Achievement in Facebook!",
