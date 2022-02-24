@@ -5579,24 +5579,6 @@
       ]
     },
     {
-      "id": "hat_U_spottedoctohat",
-      "revision": 1337,
-      "parts": [
-        {
-          "id": 3733,
-          "type": "ha"
-        },
-        {
-          "id": 3734,
-          "type": "ha"
-        },
-        {
-          "id": 3735,
-          "type": "ha"
-        }
-      ]
-    },
-    {
       "id": "acc_print_F_filalogosp",
       "revision": 1337,
       "parts": [
@@ -35535,24 +35517,6 @@
         {
           "id": 9020,
           "type": "cc"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_dina",
-      "revision": 7558899,
-      "parts": [
-        {
-          "id": 2758,
-          "type": "ha"
-        },
-        {
-          "id": 2759,
-          "type": "ha"
-        },
-        {
-          "id": 2760,
-          "type": "ha"
         }
       ]
     },
