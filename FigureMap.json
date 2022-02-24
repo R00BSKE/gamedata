@@ -12807,16 +12807,6 @@
       ]
     },
     {
-      "id": "hat_U_leet7",
-      "revision": 1337,
-      "parts": [
-        {
-          "id": 8450,
-          "type": "ha"
-        }
-      ]
-    },
-    {
       "id": "hat_U_leet8",
       "revision": 1337,
       "parts": [
@@ -12832,36 +12822,6 @@
       "parts": [
         {
           "id": 8448,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_leetbest",
-      "revision": 1337,
-      "parts": [
-        {
-          "id": 8451,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_leet2",
-      "revision": 1337,
-      "parts": [
-        {
-          "id": 8447,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_leet3",
-      "revision": 1337,
-      "parts": [
-        {
-          "id": 8446,
           "type": "ha"
         }
       ]
@@ -12903,26 +12863,6 @@
         {
           "id": 8292,
           "type": "cc"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_leetcrown2",
-      "revision": 1337,
-      "parts": [
-        {
-          "id": 7485,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_leetcrown1",
-      "revision": 1337,
-      "parts": [
-        {
-          "id": 6553,
-          "type": "ha"
         }
       ]
     },

@@ -60907,42 +60907,6 @@
             ]
           },
           {
-            "id": 7991,
-            "gender": "U",
-            "club": 0,
-            "colorable": false,
-            "selectable": true,
-            "preselectable": false,
-            "sellable": false,
-            "parts": [
-              {
-                "id": 6553,
-                "type": "ha",
-                "colorable": false,
-                "index": 0,
-                "colorindex": 0
-              }
-            ]
-          },
-          {
-            "id": 7992,
-            "gender": "U",
-            "club": 0,
-            "colorable": true,
-            "selectable": true,
-            "preselectable": false,
-            "sellable": false,
-            "parts": [
-              {
-                "id": 7485,
-                "type": "ha",
-                "colorable": true,
-                "index": 0,
-                "colorindex": 1
-              }
-            ]
-          },
-          {
             "id": 7995,
             "gender": "U",
             "club": 0,
@@ -61028,75 +60992,6 @@
             ]
           },
           {
-            "id": 8530,
-            "gender": "U",
-            "club": 0,
-            "colorable": false,
-            "selectable": true,
-            "preselectable": false,
-            "sellable": false,
-            "parts": [
-              {
-                "id": 8446,
-                "type": "ha",
-                "colorable": false,
-                "index": 0,
-                "colorindex": 0
-              }
-            ],
-            "hiddenLayers": [
-              {
-                "partType": "hrb"
-              }
-            ]
-          },
-          {
-            "id": 8535,
-            "gender": "U",
-            "club": 0,
-            "colorable": false,
-            "selectable": true,
-            "preselectable": false,
-            "sellable": false,
-            "parts": [
-              {
-                "id": 8447,
-                "type": "ha",
-                "colorable": false,
-                "index": 0,
-                "colorindex": 0
-              }
-            ],
-            "hiddenLayers": [
-              {
-                "partType": "hrb"
-              }
-            ]
-          },
-          {
-            "id": 8540,
-            "gender": "U",
-            "club": 0,
-            "colorable": false,
-            "selectable": true,
-            "preselectable": false,
-            "sellable": false,
-            "parts": [
-              {
-                "id": 8450,
-                "type": "ha",
-                "colorable": false,
-                "index": 0,
-                "colorindex": 0
-              }
-            ],
-            "hiddenLayers": [
-              {
-                "partType": "hrb"
-              }
-            ]
-          },
-          {
             "id": 8543,
             "gender": "U",
             "club": 0,
@@ -61116,24 +61011,6 @@
             "hiddenLayers": [
               {
                 "partType": "hrb"
-              }
-            ]
-          },
-          {
-            "id": 8555,
-            "gender": "U",
-            "club": 0,
-            "colorable": false,
-            "selectable": true,
-            "preselectable": false,
-            "sellable": false,
-            "parts": [
-              {
-                "id": 8451,
-                "type": "ha",
-                "colorable": false,
-                "index": 0,
-                "colorindex": 1
               }
             ]
           },
@@ -64777,7 +64654,7 @@
             "colorable": false,
             "selectable": true,
             "preselectable": false,
-            "sellable": false,
+            "sellable": true,
             "parts": [
               {
                 "id": 9184,
@@ -64795,7 +64672,7 @@
             "colorable": false,
             "selectable": true,
             "preselectable": false,
-            "sellable": false,
+            "sellable": true,
             "parts": [
               {
                 "id": 9185,
@@ -64813,7 +64690,7 @@
             "colorable": false,
             "selectable": true,
             "preselectable": false,
-            "sellable": false,
+            "sellable": true,
             "parts": [
               {
                 "id": 9186,
@@ -64831,7 +64708,7 @@
             "colorable": true,
             "selectable": true,
             "preselectable": false,
-            "sellable": false,
+            "sellable": true,
             "parts": [
               {
                 "id": 5637,
@@ -64874,7 +64751,7 @@
             "colorable": true,
             "selectable": true,
             "preselectable": false,
-            "sellable": false,
+            "sellable": true,
             "parts": [
               {
                 "id": 7684,
@@ -64899,7 +64776,7 @@
             "colorable": true,
             "selectable": true,
             "preselectable": false,
-            "sellable": false,
+            "sellable": true,
             "parts": [
               {
                 "id": 8267,
@@ -65536,7 +65413,7 @@
             "colorable": false,
             "selectable": true,
             "preselectable": false,
-            "sellable": false,
+            "sellable": true,
             "parts": [
               {
                 "id": 7016,
@@ -65554,7 +65431,7 @@
             "colorable": false,
             "selectable": true,
             "preselectable": false,
-            "sellable": false,
+            "sellable": true,
             "parts": [
               {
                 "id": 7034,
@@ -65572,7 +65449,7 @@
             "colorable": false,
             "selectable": true,
             "preselectable": false,
-            "sellable": false,
+            "sellable": true,
             "parts": [
               {
                 "id": 7037,
@@ -65631,7 +65508,7 @@
             "colorable": false,
             "selectable": true,
             "preselectable": false,
-            "sellable": false,
+            "sellable": true,
             "parts": [
               {
                 "id": 5779,
@@ -65649,7 +65526,7 @@
             "colorable": false,
             "selectable": true,
             "preselectable": false,
-            "sellable": false,
+            "sellable": true,
             "parts": [
               {
                 "id": 5778,
@@ -65726,7 +65603,7 @@
             "colorable": true,
             "selectable": true,
             "preselectable": false,
-            "sellable": false,
+            "sellable": true,
             "parts": [
               {
                 "id": 7485,
@@ -65767,7 +65644,7 @@
             "colorable": false,
             "selectable": true,
             "preselectable": false,
-            "sellable": false,
+            "sellable": true,
             "parts": [
               {
                 "id": 8446,
@@ -65790,7 +65667,7 @@
             "colorable": false,
             "selectable": true,
             "preselectable": false,
-            "sellable": false,
+            "sellable": true,
             "parts": [
               {
                 "id": 8447,
@@ -65923,7 +65800,7 @@
             "colorable": false,
             "selectable": true,
             "preselectable": false,
-            "sellable": false,
+            "sellable": true,
             "parts": [
               {
                 "id": 8450,
@@ -65946,7 +65823,7 @@
             "colorable": true,
             "selectable": true,
             "preselectable": false,
-            "sellable": false,
+            "sellable": true,
             "parts": [
               {
                 "id": 8451,
@@ -65964,7 +65841,7 @@
             "colorable": false,
             "selectable": true,
             "preselectable": false,
-            "sellable": false,
+            "sellable": true,
             "parts": [
               {
                 "id": 8452,
@@ -65987,7 +65864,7 @@
             "colorable": false,
             "selectable": true,
             "preselectable": false,
-            "sellable": false,
+            "sellable": true,
             "parts": [
               {
                 "id": 29652965,
@@ -66010,7 +65887,7 @@
             "colorable": false,
             "selectable": true,
             "preselectable": false,
-            "sellable": false,
+            "sellable": true,
             "parts": [
               {
                 "id": 8551,
@@ -66028,7 +65905,7 @@
             "colorable": false,
             "selectable": true,
             "preselectable": false,
-            "sellable": false,
+            "sellable": true,
             "parts": [
               {
                 "id": 8552,
@@ -66046,7 +65923,7 @@
             "colorable": false,
             "selectable": true,
             "preselectable": false,
-            "sellable": false,
+            "sellable": true,
             "parts": [
               {
                 "id": 6553,
