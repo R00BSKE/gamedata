@@ -12807,26 +12807,6 @@
       ]
     },
     {
-      "id": "hat_U_leet8",
-      "revision": 1337,
-      "parts": [
-        {
-          "id": 8449,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_leet9",
-      "revision": 1337,
-      "parts": [
-        {
-          "id": 8448,
-          "type": "ha"
-        }
-      ]
-    },
-    {
       "id": "shirt_M_leetrocks9",
       "revision": 1337,
       "parts": [
@@ -30395,24 +30375,6 @@
       ]
     },
     {
-      "id": "bsstonino_U_hatconiglietto",
-      "revision": 39483460,
-      "parts": [
-        {
-          "id": 3984387,
-          "type": "ha"
-        },
-        {
-          "id": 3984388,
-          "type": "ha"
-        },
-        {
-          "id": 3984389,
-          "type": "ha"
-        }
-      ]
-    },
-    {
       "id": "bsstonino_U_occhialiperfighetti",
       "revision": 39483461,
       "parts": [
@@ -34349,26 +34311,6 @@
       ]
     },
     {
-      "id": "hat_U_horse3",
-      "revision": 899624629,
-      "parts": [
-        {
-          "id": 29652966,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_habboaiwolfbaby",
-      "revision": 899624627,
-      "parts": [
-        {
-          "id": 29652971,
-          "type": "ha"
-        }
-      ]
-    },
-    {
       "id": "acc_eye_U_habboaidealwithit",
       "revision": 899624626,
       "parts": [
@@ -34642,16 +34584,6 @@
         },
         {
           "id": 4377,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_witc2",
-      "revision": 987462877,
-      "parts": [
-        {
-          "id": 3394,
           "type": "ha"
         }
       ]
@@ -34957,26 +34889,6 @@
         {
           "id": 8457,
           "type": "sh"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_hrain",
-      "revision": 987462850,
-      "parts": [
-        {
-          "id": 8448,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_hoyal",
-      "revision": 987462849,
-      "parts": [
-        {
-          "id": 8449,
-          "type": "ha"
         }
       ]
     },
@@ -35987,16 +35899,6 @@
       ]
     },
     {
-      "id": "hat_U_etoilecty",
-      "revision": 990000294,
-      "parts": [
-        {
-          "id": 5988,
-          "type": "ha"
-        }
-      ]
-    },
-    {
       "id": "hair_F_divine",
       "revision": 990000617,
       "parts": [
@@ -36525,46 +36427,6 @@
         {
           "id": 7857,
           "type": "rs"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_hero3",
-      "revision": 620319715,
-      "parts": [
-        {
-          "id": 6776,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_hero4",
-      "revision": 620311550,
-      "parts": [
-        {
-          "id": 6777,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_hero5",
-      "revision": 620311551,
-      "parts": [
-        {
-          "id": 1111,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_hero7",
-      "revision": 620311553,
-      "parts": [
-        {
-          "id": 1113,
-          "type": "ha"
         }
       ]
     },

@@ -60969,52 +60969,6 @@
             ]
           },
           {
-            "id": 8528,
-            "gender": "U",
-            "club": 0,
-            "colorable": false,
-            "selectable": true,
-            "preselectable": false,
-            "sellable": false,
-            "parts": [
-              {
-                "id": 8448,
-                "type": "ha",
-                "colorable": false,
-                "index": 0,
-                "colorindex": 0
-              }
-            ],
-            "hiddenLayers": [
-              {
-                "partType": "hrb"
-              }
-            ]
-          },
-          {
-            "id": 8543,
-            "gender": "U",
-            "club": 0,
-            "colorable": false,
-            "selectable": true,
-            "preselectable": false,
-            "sellable": false,
-            "parts": [
-              {
-                "id": 8449,
-                "type": "ha",
-                "colorable": false,
-                "index": 0,
-                "colorindex": 0
-              }
-            ],
-            "hiddenLayers": [
-              {
-                "partType": "hrb"
-              }
-            ]
-          },
-          {
             "id": 8556,
             "gender": "U",
             "club": 0,
@@ -63966,38 +63920,6 @@
             ]
           },
           {
-            "id": 39483460,
-            "gender": "U",
-            "club": 0,
-            "colorable": true,
-            "selectable": true,
-            "preselectable": false,
-            "sellable": false,
-            "parts": [
-              {
-                "id": 3984387,
-                "type": "ha",
-                "colorable": false,
-                "index": 0,
-                "colorindex": 0
-              },
-              {
-                "id": 3984388,
-                "type": "ha",
-                "colorable": false,
-                "index": 0,
-                "colorindex": 0
-              },
-              {
-                "id": 3984389,
-                "type": "ha",
-                "colorable": true,
-                "index": 0,
-                "colorindex": 1
-              }
-            ]
-          },
-          {
             "id": 61156413,
             "gender": "U",
             "club": 0,
@@ -65461,47 +65383,6 @@
             ]
           },
           {
-            "id": 899624629,
-            "gender": "U",
-            "club": 0,
-            "colorable": false,
-            "selectable": true,
-            "preselectable": false,
-            "sellable": false,
-            "parts": [
-              {
-                "id": 29652966,
-                "type": "ha",
-                "colorable": false,
-                "index": 0,
-                "colorindex": 0
-              }
-            ],
-            "hiddenLayers": [
-              {
-                "partType": "hrb"
-              }
-            ]
-          },
-          {
-            "id": 899624627,
-            "gender": "U",
-            "club": 0,
-            "colorable": false,
-            "selectable": true,
-            "preselectable": false,
-            "sellable": false,
-            "parts": [
-              {
-                "id": 29652971,
-                "type": "ha",
-                "colorable": true,
-                "index": 1,
-                "colorindex": 1
-              }
-            ]
-          },
-          {
             "id": 899624625,
             "gender": "U",
             "club": 0,
@@ -65615,29 +65496,6 @@
             ]
           },
           {
-            "id": 987462877,
-            "gender": "U",
-            "club": 0,
-            "colorable": true,
-            "selectable": true,
-            "preselectable": false,
-            "sellable": false,
-            "parts": [
-              {
-                "id": 3394,
-                "type": "ha",
-                "colorable": true,
-                "index": 0,
-                "colorindex": 1
-              }
-            ],
-            "hiddenLayers": [
-              {
-                "partType": "hrb"
-              }
-            ]
-          },
-          {
             "id": 987462857,
             "gender": "U",
             "club": 0,
@@ -65744,52 +65602,6 @@
                 "colorable": true,
                 "index": 1,
                 "colorindex": 2
-              }
-            ]
-          },
-          {
-            "id": 987462850,
-            "gender": "U",
-            "club": 0,
-            "colorable": false,
-            "selectable": true,
-            "preselectable": false,
-            "sellable": false,
-            "parts": [
-              {
-                "id": 8448,
-                "type": "ha",
-                "colorable": false,
-                "index": 0,
-                "colorindex": 0
-              }
-            ],
-            "hiddenLayers": [
-              {
-                "partType": "hrb"
-              }
-            ]
-          },
-          {
-            "id": 987462849,
-            "gender": "U",
-            "club": 0,
-            "colorable": false,
-            "selectable": true,
-            "preselectable": false,
-            "sellable": false,
-            "parts": [
-              {
-                "id": 8449,
-                "type": "ha",
-                "colorable": false,
-                "index": 0,
-                "colorindex": 0
-              }
-            ],
-            "hiddenLayers": [
-              {
-                "partType": "hrb"
               }
             ]
           },
@@ -66008,24 +65820,6 @@
             ]
           },
           {
-            "id": 990000294,
-            "gender": "U",
-            "club": 0,
-            "colorable": false,
-            "selectable": true,
-            "preselectable": false,
-            "sellable": false,
-            "parts": [
-              {
-                "id": 5988,
-                "type": "ha",
-                "colorable": false,
-                "index": 0,
-                "colorindex": 0
-              }
-            ]
-          },
-          {
             "id": 1559954,
             "gender": "U",
             "club": 0,
@@ -66070,98 +65864,6 @@
                 "colorable": true,
                 "index": 1,
                 "colorindex": 2
-              }
-            ],
-            "hiddenLayers": [
-              {
-                "partType": "hrb"
-              }
-            ]
-          },
-          {
-            "id": 620319715,
-            "gender": "U",
-            "club": 0,
-            "colorable": true,
-            "selectable": true,
-            "preselectable": false,
-            "sellable": false,
-            "parts": [
-              {
-                "id": 6776,
-                "type": "ha",
-                "colorable": true,
-                "index": 0,
-                "colorindex": 1
-              }
-            ],
-            "hiddenLayers": [
-              {
-                "partType": "hrb"
-              }
-            ]
-          },
-          {
-            "id": 620311550,
-            "gender": "U",
-            "club": 0,
-            "colorable": true,
-            "selectable": true,
-            "preselectable": false,
-            "sellable": false,
-            "parts": [
-              {
-                "id": 6777,
-                "type": "ha",
-                "colorable": true,
-                "index": 0,
-                "colorindex": 1
-              }
-            ],
-            "hiddenLayers": [
-              {
-                "partType": "hrb"
-              }
-            ]
-          },
-          {
-            "id": 620311551,
-            "gender": "U",
-            "club": 0,
-            "colorable": true,
-            "selectable": true,
-            "preselectable": false,
-            "sellable": false,
-            "parts": [
-              {
-                "id": 1111,
-                "type": "ha",
-                "colorable": true,
-                "index": 0,
-                "colorindex": 1
-              }
-            ],
-            "hiddenLayers": [
-              {
-                "partType": "hrb"
-              }
-            ]
-          },
-          {
-            "id": 620311553,
-            "gender": "U",
-            "club": 0,
-            "colorable": true,
-            "selectable": true,
-            "preselectable": false,
-            "sellable": false,
-            "parts": [
-              {
-                "id": 1113,
-                "type": "ha",
-                "colorable": true,
-                "index": 0,
-                "colorindex": 1
               }
             ],
             "hiddenLayers": [
