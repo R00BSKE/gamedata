@@ -12887,26 +12887,6 @@
       ]
     },
     {
-      "id": "hat_U_leet95",
-      "revision": 1337,
-      "parts": [
-        {
-          "id": 5786,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_leet96",
-      "revision": 1337,
-      "parts": [
-        {
-          "id": 6786,
-          "type": "ha"
-        }
-      ]
-    },
-    {
       "id": "shirt_M_leetrocks9",
       "revision": 1337,
       "parts": [
@@ -30819,16 +30799,6 @@
       ]
     },
     {
-      "id": "bsstonino_U_cappellonasa",
-      "revision": 61156423,
-      "parts": [
-        {
-          "id": 39483562,
-          "type": "ha"
-        }
-      ]
-    },
-    {
       "id": "bsstonino_U_lokithor",
       "revision": 61156424,
       "parts": [
@@ -32320,26 +32290,6 @@
         },
         {
           "id": 9167,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "bssitalia_U_mariobros",
-      "revision": 9130,
-      "parts": [
-        {
-          "id": 9130,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "bssitalia_U_worldcinese",
-      "revision": 9131,
-      "parts": [
-        {
-          "id": 9131,
           "type": "ha"
         }
       ]
@@ -35929,16 +35879,6 @@
       ]
     },
     {
-      "id": "Hat_U_spacehat",
-      "revision": 9027,
-      "parts": [
-        {
-          "id": 9027,
-          "type": "ha"
-        }
-      ]
-    },
-    {
       "id": "jacket_F_lomg_dress_hebbo",
       "revision": 9019,
       "parts": [
@@ -36900,16 +36840,6 @@
       "parts": [
         {
           "id": 1111,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_hero6",
-      "revision": 620311552,
-      "parts": [
-        {
-          "id": 1112,
           "type": "ha"
         }
       ]
