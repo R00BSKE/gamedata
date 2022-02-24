@@ -63949,29 +63949,6 @@
             ]
           },
           {
-            "id": 61156475,
-            "gender": "U",
-            "club": 0,
-            "colorable": false,
-            "selectable": true,
-            "preselectable": false,
-            "sellable": false,
-            "parts": [
-              {
-                "id": 39483609,
-                "type": "ha",
-                "colorable": false,
-                "index": 0,
-                "colorindex": 0
-              }
-            ],
-            "hiddenLayers": [
-              {
-                "partType": "hrb"
-              }
-            ]
-          },
-          {
             "id": 991110584,
             "gender": "U",
             "club": 0,
@@ -65678,29 +65655,6 @@
                 "colorable": true,
                 "index": 0,
                 "colorindex": 0
-              }
-            ]
-          },
-          {
-            "id": 1559954,
-            "gender": "U",
-            "club": 0,
-            "colorable": true,
-            "selectable": true,
-            "preselectable": false,
-            "sellable": false,
-            "parts": [
-              {
-                "id": 2787,
-                "type": "ha",
-                "colorable": true,
-                "index": 0,
-                "colorindex": 1
-              }
-            ],
-            "hiddenLayers": [
-              {
-                "partType": "hrb"
               }
             ]
           },
