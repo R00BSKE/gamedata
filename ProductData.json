@@ -1,6 +1,111 @@
 {
   "productdata": {
     "product": [
+	    {
+            "code": "cloudie_pillow*0",
+            "name": "Groot Geel Kussen",
+            "description": ""
+        },
+	    {
+            "code": "cloudie_pillow*1",
+            "name": "Groot Oranje Kussen",
+            "description": ""
+        },
+		{
+            "code": "cloudie_pillow*2",
+            "name": "Groot Rood Kussen",
+            "description": ""
+        },
+		{
+            "code": "cloudie_pillow*3",
+            "name": "Groot Roze Kussen",
+            "description": ""
+        },
+		{
+            "code": "cloudie_pillow*4",
+            "name": "Groot Blauw Kussen",
+            "description": ""
+        },
+		{
+            "code": "cloudie_pillow*5",
+            "name": "Groot Groen Kussen",
+            "description": ""
+        },
+		{
+            "code": "cloudie_pillow*6",
+            "name": "Groot Ijs Kussen",
+            "description": ""
+        },
+	    {
+            "code": "cloudie_scifidoor*0",
+            "name": "Gele Ruimtesluis",
+            "description": ""
+        },
+	    {
+            "code": "cloudie_scifidoor*1",
+            "name": "Oranje Ruimtesluis",
+            "description": ""
+        },
+		{
+            "code": "cloudie_scifidoor*2",
+            "name": "Rode Ruimtesluis",
+            "description": ""
+        },
+		{
+            "code": "cloudie_scifidoor*3",
+            "name": "Roze Ruimtesluis",
+            "description": ""
+        },
+		{
+            "code": "cloudie_scifidoor*4",
+            "name": "Blauwe Ruimtesluis",
+            "description": ""
+        },
+		{
+            "code": "cloudie_scifidoor*5",
+            "name": "Groene Ruimtesluis",
+            "description": ""
+        },
+		{
+            "code": "cloudie_scifidoor*6",
+            "name": "Ijs Ruimtesluis",
+            "description": ""
+        },
+	    {
+            "code": "cloudie_icecream*0",
+            "name": "Gele Droomijsmachine",
+            "description": ""
+        },
+	    {
+            "code": "cloudie_icecream*1",
+            "name": "Oranje Droomijsmachine",
+            "description": ""
+        },
+		{
+            "code": "cloudie_icecream*2",
+            "name": "Rode Droomijsmachine",
+            "description": ""
+        },
+		{
+            "code": "cloudie_icecream*3",
+            "name": "Roze Droomijsmachine",
+            "description": ""
+        },
+		{
+            "code": "cloudie_icecream*4",
+            "name": "Blauwe Droomijsmachine",
+            "description": ""
+        },
+		{
+            "code": "cloudie_icecream*5",
+            "name": "Groene Droomijsmachine",
+            "description": ""
+        },
+		{
+            "code": "cloudie_icecream*6",
+            "name": "Ijs Droomijsmachine",
+            "description": ""
+        },
 		{
             "code": "bc_stairs*1",
             "name": "Trap Blok",
