@@ -24538,14 +24538,14 @@
             "sellable": true,
             "parts": [
               {
-                "id": 10000002,
+                "id": 9823,
                 "type": "hr",
                 "colorable": true,
                 "index": 0,
                 "colorindex": 1
               },
               {
-                "id": 10000002,
+                "id": 9823,
                 "type": "hrb",
                 "colorable": true,
                 "index": 0,
