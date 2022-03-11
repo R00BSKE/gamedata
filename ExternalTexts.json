@@ -23285,7 +23285,7 @@
 	"navigator.roomsettings.chat_settings": "Chat instellingen",
 	"navigator.roomsettings.current_style": "Jehebt momenteel deze stijl in je kamer.",
 	"navigator.roomsettings.delete": "Verwijder deze kamer",
-	"navigator.roomsettings.deleteroom.confirm.message": "Weet je zeker dat je wilt verwijderen %roomname% Alle meubels (Behalve behang, vloer, landschappen, en plakbriefjes) worden verplaatst naar 'mijn spullen'",
+	"navigator.roomsettings.deleteroom.confirm.message": "Weet je zeker dat je wilt verwijderen %ROOMNAME% Alle meubels (Behalve behang, vloer, landschappen, en plakbriefjes) worden verplaatst naar 'mijn spullen'",
 	"navigator.roomsettings.deleteroom.confirm.title": "Bevestig het verwijderen van de kamer",
 	"navigator.roomsettings.desc": "Voeg een beschrijving toe ",
 	"navigator.roomsettings.doormode.doorbell": "Bezoekers moeten aanbellen",
