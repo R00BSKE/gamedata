@@ -1,6 +1,121 @@
 {
   "productdata": {
     "product": [
+	{
+            "code": "WC_Papier",
+            "name": "WC Papier",
+            "description": ""
+        },
+		{
+            "code": "Venetiaans_raam",
+            "name": "Venetiaans Raam",
+            "description": ""
+        },
+		{
+            "code": "Trompetbloemen",
+            "name": "Trompetbloemen",
+            "description": ""
+        },
+		{
+            "code": "Stierschedel",
+            "name": "Stierschedel",
+            "description": ""
+        },
+		{
+            "code": "Sterke_drank",
+            "name": "Sterke Drank",
+            "description": ""
+        },
+		{
+            "code": "Sierlijke_Plant",
+            "name": "Sierlijke Plant",
+            "description": ""
+        },
+		{
+            "code": "Schaaltjes",
+            "name": "Schaaltjes",
+            "description": ""
+        },
+		{
+            "code": "Romantische_bloem",
+            "name": "Romantische Bloem",
+            "description": ""
+        },
+		{
+            "code": "Pikante_Saus",
+            "name": "Pikante Saus",
+            "description": ""
+        },
+		{
+            "code": "Picknick_Manden",
+            "name": "Picknick Mand",
+            "description": ""
+        },
+		{
+            "code": "Oud_Griekse_Kussens",
+            "name": "Oud Grieks Kussen",
+            "description": ""
+        },
+		{
+            "code": "Opbergspullen",
+            "name": "Opbergspullen",
+            "description": ""
+        },
+		{
+            "code": "Opbergplank",
+            "name": "Opbergplank",
+            "description": ""
+        },
+		{
+            "code": "Koffiepot",
+            "name": "Koffiepot",
+            "description": ""
+        },
+		{
+            "code": "Klimoppen",
+            "name": "Klimop",
+            "description": ""
+        },
+		{
+            "code": "Kleurrijke_rietjes",
+            "name": "Kleurrijke Rietjes",
+            "description": ""
+        },
+		{
+            "code": "Klein_cactus",
+            "name": "Kleine Cactus",
+            "description": ""
+        },
+		{
+            "code": "Kasteelraam",
+            "name": "Kasteelraam",
+            "description": ""
+        },
+		{
+            "code": "Japan_Irori",
+            "name": "Japanse Irori",
+            "description": ""
+        },
+		{
+            "code": "Japanse_bloem",
+            "name": "Japanse Bloem",
+            "description": ""
+        },
+		{
+            "code": "Hipster_kussen",
+            "name": "Hipster Kussen",
+            "description": ""
+        },
+		{
+            "code": "Hartje_Met_Hoorns",
+            "name": "Hartje Met Hoorns",
+            "description": ""
+        },
+		{
+            "code": "Hangende_Kralen_Groen",
+            "name": "Hangende Kralen",
+            "description": ""
+        },
 	    {
             "code": "cloudie_pillow*0",
             "name": "Groot Geel Kussen",
