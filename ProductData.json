@@ -2,6 +2,171 @@
   "productdata": {
     "product": [
 	{
+            "code": "habbox_shone_walkman",
+            "name": "Walkman",
+            "description": ""
+        },
+		{
+            "code": "habbox_shone_vinyles",
+            "name": "Vinyl Stapel",
+            "description": ""
+        },
+		{
+            "code": "habbox_shone_vase_violet",
+            "name": "Purperen Bloemen",
+            "description": ""
+        },
+		{
+            "code": "habbox_shone_vase_rouge",
+            "name": "Rode Bloemen",
+            "description": ""
+        },
+		{
+            "code": "habbox_shone_vase_orange",
+            "name": "Gele Bloemen",
+            "description": ""
+        },
+		{
+            "code": "habbox_shone_vase_gris_2",
+            "name": "Paarse Roos",
+            "description": ""
+        },
+		{
+            "code": "habbox_shone_vase_gris_1",
+            "name": "Gele Roos",
+            "description": ""
+        },
+		{
+            "code": "habbox_shone_vase_bronze_2",
+            "name": "Paarse Roos",
+            "description": ""
+        },
+		{
+            "code": "habbox_shone_vase_bronze_1",
+            "name": "Gele Roos",
+            "description": ""
+        },
+		{
+            "code": "habbox_shone_vase_bleu",
+            "name": "Blauwe Bloemen",
+            "description": ""
+        },
+		{
+            "code": "habbox_shone_vase_blanc_2",
+            "name": "Paarse Roos",
+            "description": ""
+        },
+		{
+            "code": "habbox_shone_vase_blanc_1",
+            "name": "Gele Roos",
+            "description": ""
+        },
+		{
+            "code": "habbox_shone_tasse_japonaises",
+            "name": "Yunomi Bekers",
+            "description": ""
+        },
+		{
+            "code": "habbox_shone_tasse_japonaise",
+            "name": "Yunomi Beker",
+            "description": ""
+        },
+		{
+            "code": "habbox_shone_tasse_cafe",
+            "name": "Koffiekopje",
+            "description": ""
+        },
+		{
+            "code": "habbox_shone_tapis_jap_enroule",
+            "name": "Opgerolde Tatami Mat",
+            "description": ""
+        },
+		{
+            "code": "habbox_shone_tapis_japonais",
+            "name": "Tatami Mat",
+            "description": ""
+        },
+		{
+            "code": "habbox_shone_sushi_japonais",
+            "name": "Nigiri",
+            "description": ""
+        },
+		{
+            "code": "habbox_shone_poster_mur",
+            "name": "Poster",
+            "description": ""
+        },
+		{
+            "code": "habbox_shone_pile_livres_2",
+            "name": "Stapel Boeken",
+            "description": ""
+        },
+		{
+            "code": "habbox_shone_pile_livres_1",
+            "name": "Stapel Boeken",
+            "description": ""
+        },
+		{
+            "code": "habbox_shone_pile_feuilles_5",
+            "name": "Stapel Papier",
+            "description": ""
+        },
+		{
+            "code": "habbox_shone_pile_feuilles_4",
+            "name": "Stapel Papier",
+            "description": ""
+        },
+		{
+            "code": "habbox_shone_pile_feuilles_3",
+            "name": "Stapel Papier",
+            "description": ""
+        },
+		{
+            "code": "habbox_shone_pile_feuilles_2",
+            "name": "Stapel Papier",
+            "description": ""
+        },
+		{
+            "code": "habbox_shone_pile_feuilles_1",
+            "name": "Stapel Papier",
+            "description": ""
+        },
+		{
+            "code": "habbox_shone_pile_bouquins",
+            "name": "Stapel Boeken",
+            "description": ""
+        },
+		{
+            "code": "habbox_shone_pile_bd",
+            "name": "Kinderboeken",
+            "description": ""
+        },
+		{
+            "code": "habbox_shone_photos_mur",
+            "name": "Polaroids",
+            "description": ""
+        },
+		{
+            "code": "habbox_shone_petite_etagere",
+            "name": "Snijplank",
+            "description": ""
+        },
+		{
+            "code": "habbox_shone_mini_statue",
+            "name": "Mini Standbeeld",
+            "description": ""
+        },
+		{
+            "code": "habbox_shone_mini_pyramide",
+            "name": "Mini Banzai Pyramide",
+            "description": ""
+        },
+		{
+            "code": "habbox_shone_mini_postit",
+            "name": "Post Its",
+            "description": ""
+        },
+	    {
             "code": "WC_Papier",
             "name": "WC Papier",
             "description": ""
