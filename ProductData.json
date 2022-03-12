@@ -2,6 +2,11 @@
   "productdata": {
     "product": [
 	    {
+            "code": "clothing_plattcrown",
+            "name": "Platinum Kroon",
+            "description": ""
+        },
+	    {
             "code": "BW_TimothyTimido_Tele",
             "name": "Schilderij 1",
             "description": ""
