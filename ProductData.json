@@ -2,6 +2,76 @@
   "productdata": {
     "product": [
 	    {
+            "code": "BW_TimothyTimido_Tele",
+            "name": "Schilderij 1",
+            "description": ""
+        },
+		{
+            "code": "BW_TemeritusShanks_Tele",
+            "name": "Schilderij 2",
+            "description": ""
+        },
+		{
+            "code": "BW_StanzaNecessita",
+            "name": "Schilderij 3",
+            "description": ""
+        },
+		{
+            "code": "BW_PercivalPratt_Tele",
+            "name": "Schilderij 4",
+            "description": ""
+        },
+		{
+            "code": "BW_HogwartsDoor",
+            "name": "Schilderij 5",
+            "description": ""
+        },
+		{
+            "code": "BW_GeorgeVonRheticus_Tele",
+            "name": "Schilderij 6",
+            "description": ""
+        },
+		{
+            "code": "BW_ElizabethBurke_Tele",
+            "name": "Schilderij 7",
+            "description": ""
+        },
+		{
+            "code": "BW_EdwardRabnott_Tele",
+            "name": "Schilderij 8",
+            "description": ""
+        },
+		{
+            "code": "BW_DamaDodderidge_Tele",
+            "name": "Schilderij 9",
+            "description": ""
+        },
+		{
+            "code": "BW_BorisBasito_Tele",
+            "name": "Schilderij 10",
+            "description": ""
+        },
+		{
+            "code": "BW_BasilFronsac_Tele",
+            "name": "Schilderij 11",
+            "description": ""
+        },
+		{
+            "code": "BW_ArianaSilente_Tele",
+            "name": "Schilderij 12",
+            "description": ""
+        },
+		{
+            "code": "BW_AccessoCucine_Tele",
+            "name": "Schilderij 13",
+            "description": ""
+        },
+		{
+            "code": "BW_AccessoCorvonero",
+            "name": "Schilderij 14",
+            "description": ""
+        },
+	    {
             "code": "weyko_marron_hog",
             "name": "Vloer 1",
             "description": ""
