@@ -2,6 +2,41 @@
   "productdata": {
     "product": [
 	    {
+            "code": "clothing_candycrown",
+            "name": "Snoep Kroon",
+            "description": ""
+        },
+		{
+            "code": "clothing_crown_pink",
+            "name": "Roze Kroon",
+            "description": ""
+        },
+	    {
+            "code": "clothing_deathcrown",
+            "name": "Gothic Kroon",
+            "description": ""
+        },
+		{
+            "code": "clothing_fanttcrown",
+            "name": "Fantasie Kroon",
+            "description": ""
+        },
+	    {
+            "code": "clothing_golddcrown",
+            "name": "Gouden Kroon",
+            "description": ""
+        },
+	    {
+            "code": "clothing_loveecrown",
+            "name": "Liefdes Kroon",
+            "description": ""
+        },
+	    {
+            "code": "clothing_rainncrown",
+            "name": "Regenboog Kroon",
+            "description": ""
+        },
+	    {
             "code": "clothing_plattcrown",
             "name": "Platinum Kroon",
             "description": ""
