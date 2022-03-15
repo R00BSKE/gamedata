@@ -2,6 +2,66 @@
   "productdata": {
     "product": [
 	    {
+            "code": "clothing_hcitymaester01",
+            "name": "Muts",
+            "description": ""
+        },
+		{
+            "code": "clothing_hcitymaester02",
+            "name": "Muts",
+            "description": ""
+        },
+		{
+            "code": "clothing_hcitymaester03",
+            "name": "Muts",
+            "description": ""
+        },
+		{
+            "code": "clothing_schat",
+            "name": "Kitten",
+            "description": ""
+        },
+		{
+            "code": "clothing_spika",
+            "name": "Pikachu",
+            "description": ""
+        },
+		{
+            "code": "clothing_shamt",
+            "name": "Hamster",
+            "description": ""
+        },
+		{
+            "code": "clothing_dragoneinfuocato",
+            "name": "Draken Sjaal",
+            "description": ""
+        },
+		{
+            "code": "clothing_berrettovecchio",
+            "name": "Baret",
+            "description": ""
+        },
+		{
+            "code": "clothing_orecchioni",
+            "name": "Konijnen Oren",
+            "description": ""
+        },
+		{
+            "code": "clothing_icetiara4",
+            "name": "Roze Tiara",
+            "description": ""
+        },
+		{
+            "code": "clothing_icetiara3",
+            "name": "Gothic Tiara",
+            "description": ""
+        },
+		{
+            "code": "clothing_durag1",
+            "name": "Durag",
+            "description": ""
+        },
+	    {
             "code": "clothing_candycrown",
             "name": "Snoep Kroon",
             "description": ""
