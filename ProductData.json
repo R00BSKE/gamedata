@@ -2,6 +2,11 @@
   "productdata": {
     "product": [
 	    {
+            "code": "blok",
+            "name": "Kleur Blok",
+            "description": ""
+        },
+	    {
             "code": "clothing_hcitymaester01",
             "name": "Muts",
             "description": ""
