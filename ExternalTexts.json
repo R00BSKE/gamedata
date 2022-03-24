@@ -507,34 +507,6 @@
 	"HX9_HHSG_badge_name": "XLeader",
 	"HX9_badge_desc": "CloudieeXpertsLeader",
 	"HX9_badge_name": "XLeader",
-	"Hand item1000": "rose",
-	"Hand item1001": "black rose",
-	"Hand item1002": "sun flower",
-	"Hand item1003": "red book",
-	"Hand item1004": "blue book",
-	"Hand item1005": "green book",
-	"Hand item1006": "gift flower",
-	"Hand item1007": "jimson weed",
-	"Hand item1008": "yellow delight",
-	"Hand item1009": "pink pandemic",
-	"Hand item1011": "clip board",
-	"Hand item1013": "pills",
-	"Hand item1014": "syringe",
-	"Hand item1015": "biohazard bag",
-	"Hand item1019": "bolly flower",
-	"Hand item1021": "hyacinth1",
-	"Hand item1022": "hyacinth2",
-	"Hand item1023": "poinsettia",
-	"Hand item1024": "pudding",
-	"Hand item1025": "candy cane",
-	"Hand item1026": "present",
-	"Hand item1027": "candle",
-	"Hand item105": "turkey",
-	"Hand item106": "toast",
-	"Hand item92": "blue bubblegum",
-	"Hand item93": "red bubblegum",
-	"Hand item94": "green bubblegum",
-	"Handitem1002": "sunflower",
 	"IT029_badge_desc": "FacebookPhotoComp",
 	"IT029_badge_name": "SpringBadge",
 	"JF1_HHAU_badge_desc": "Katanabadge",
@@ -1400,35 +1372,35 @@
 	"avatar.widget.nux.get.gift.d2s1g3": "Choose a pig",
 	"avatar.widget.nux.phone.verification.help": "Why do i have to give my number?",
 	"avatar.widget.nux.verify.phone.number": "Verify your account",
-	"avatar.widget.pass_hand_item": "Geef handitem",
+	"avatar.widget.pass_hand_item": "Geef voorwerp",
 	"avatar.widget.pick_up": "Pak op",
-	"avatar.widget.random_walk": "Relax",
-	"avatar.widget.setup_chat": "Setup speech",
-	"avatar.widget.stand_still": "Stand still",
-	"avataredito.use_outfit": "Wear outfit",
+	"avatar.widget.random_walk": "Loop/Sta stil",
+	"avatar.widget.setup_chat": "Chat instellen",
+	"avatar.widget.stand_still": "Sta stil",
+	"avataredito.use_outfit": "Draag outfit",
 	"avatareditor.cancel": "Annuleer",
 	"avatareditor.category.ca": "Juwelen",
-	"avatareditor.category.cc": "Jackets",
+	"avatareditor.category.cc": "Jasjes",
 	"avatareditor.category.ch": "Shirts",
-	"avatareditor.category.cp": "Prints",
-	"avatareditor.category.ea": "Goggles",
+	"avatareditor.category.cp": "Geprint",
+	"avatareditor.category.ea": "Brillen",
 	"avatareditor.category.effects": "Effecten",
-	"avatareditor.category.fa": "Masks",
+	"avatareditor.category.fa": "Maskers",
 	"avatareditor.category.ha": "Hoeden",
 	"avatareditor.category.hd": "Gezicht & Lichaam",
-	"avatareditor.category.he": "Accessories",
+	"avatareditor.category.he": "Accessoires",
 	"avatareditor.category.head": "Hoofd",
-	"avatareditor.category.hotlooks": "Hot Looks",
+	"avatareditor.category.hotlooks": "Hippe Looks",
 	"avatareditor.category.hr": "Haar",
 	"avatareditor.category.legs": "Benen",
 	"avatareditor.category.lg": "Broeken",
 	"avatareditor.category.sh": "Schoenen",
 	"avatareditor.category.torso": "Lichaam",
-	"avatareditor.category.wa": "Belts",
+	"avatareditor.category.wa": "Riemen",
 	"avatareditor.category.wardrobe": "Kast",
 	"avatareditor.effects.active.daysleft": "%days_left% dagen",
 	"avatareditor.effects.active.permanent": "Permanent",
-	"avatareditor.effects.active.timeleft": "%time_left% left",
+	"avatareditor.effects.active.timeleft": "Tijd over: %time_left%",
 	"avatareditor.effects.no_effects": "It seems you have no effects available, get some in the Catalogue!",
 	"avatareditor.effects.shop": "Buy more",
 	"avatareditor.effects.stopusing": "Verwijder",
@@ -18064,166 +18036,202 @@
 	"Cloudieween.engraving.caption": "Friends till the last flicker",
 	"Cloudieween_2012_5.1350478657998.chaincaption": "Meet Dr Death",
 	"Cloudieween_2012_5.1350478657998": "Meet Dr Death",
-	"handitem1000": "rose",
-	"handitem1001": "black rose",
-	"handitem1002": "sun flower",
-	"handitem1003": "Little Read Book by Kitano",
-	"handitem1004": "Moby Dick by Herman Melville",
-	"handitem1005": "My Achievements by Neja",
-	"handitem1006": "gift flower",
-	"handitem1007": "jimson weed",
-	"handitem1008": "yellow delight",
-	"handitem1009": "pink pandemic",
-	"handitem100": "Cabbage",
-	"handitem1011": "clip board",
-	"handitem1013": "painkiller",
-	"handitem1014": "syringe",
-	"handitem1015": "biohazard bag",
-	"handitem1019": "bolly flower",
-	"handitem101": "Sparklying Bubble Juice",
-	"handitem1021": "hyacinth1",
-	"handitem1022": "hyacinth2",
-	"handitem1023": "poinsettia",
-	"handitem1024": "pudding",
-	"handitem1025": "candy cane",
-	"handitem1026": "present",
-	"handitem1027": "candle",
-	"handitem1029": "Balloon",
-	"handitem102": "Energy Drink",
-	"handitem1030": "HiPad",
-	"handitem1031": "Cloudie-lympix Torch",
-	"handitem1032": "Major Tom",
-	"handitem1033": "UFO",
-	"handitem1034": "Alien thing",
-	"handitem1035": "Wrench",
-	"handitem1036": "Gummy duck",
-	"handitem1037": "Snake",
-	"handitem1038": "Stick",
-	"handitem1039": "Severed hand",
-	"handitem103": "Banana!",
-	"handitem1040": "Heart",
-	"handitem1041": "Squid",
-	"handitem1042": "Bat Excrement",
-	"handitem1043": "Magot",
-	"handitem1044": "Dead Rat",
-	"handitem1045": "Dentures",
-	"handitem1046": "Clearasil Cream",
-	"handitem1048": "Ditch the Label Flag",
-	"handitem1049": "Hammer",
-	"handitem104": "Avocado",
-	"handitem1051": "Paint Brush",
-	"handitem1052": "Ditch the Label Flag",
-	"handitem1053": "Duck",
-	"handitem1054": "Orange Balloon",
-	"handitem1055": "Green Balloon",
-	"handitem1056": "Blue Balloon",
-	"handitem1057": "Pink Balloon",
-	"handitem105": "Grapes",
-	"handitem1060": "Spray",
-	"handitem1062": "Pink Candy Skull",
-	"handitem1063": "Green Candy Skull",
-	"handitem1064": "Blue Candy Skull",
-	"handitem1065": "Doll Toy",
-	"handitem1066": "Teddy Toy",
-	"handitem1067": "Soldier Toy",
-	"handitem1068": "Manga",
-	"handitem1069": "Comic",
-	"handitem106": "Smoothie",
-	"handitem1070": "Yellow Book",
-	"handitem1072": "Compass",
-	"handitem1073": "Dino Egg",
-	"handitem1074": "Green Allosaurus",
-	"handitem1075": "Yellow Triceratops",
-	"handitem1076": "Purple Saurolophus",
-	"handitem1079": "Stag Beetle",
-	"handitem107": "Vegetables Juice",
-	"handitem1080": "Rhino Beetle",
-	"handitem1082": "Pride Flag",
-	"handitem10": "Tea",
-	"handitem111": "crab",
-	"handitem118": "Pink Ramune",
-	"handitem119": "Blue Ramune",
-	"handitem11": "Mocha",
-	"handitem120": "Blueberry Shaved Ice",
-	"handitem121": "Strawberry Shaved Ice",
-	"handitem122": "Takoyaki",
-	"handitem128": "Strawberry ice-cream",
-	"handitem129": "Mint chic chip ice-cream",
-	"handitem12": "Macchiato",
-	"handitem130": "Chocolate ice-cream",
-	"handitem13": "Espresso",
-	"handitem141": "Luminescent Easter Egg",
-	"handitem14": "Black Coffee",
-	"handitem15": "Hot Chocolate",
-	"handitem16": "Cappuccino",
-	"handitem17": "Java",
-	"handitem18": "Tap Water",
-	"handitem19": "Cloudie Cola",
-	"handitem1": "Tea",
-	"handitem20": "Camera",
-	"handitem21": "Hamburger",
-	"handitem22": "Lime Cloudie Soda",
-	"handitem23": "Beetroot Cloudie Soda",
-	"handitem24": "Bubble juice from 1978",
-	"handitem25": "Love potion",
-	"handitem26": "Calippo",
-	"handitem27": "Tea",
-	"handitem28": "Sake",
-	"handitem29": "Tomato juice",
-	"handitem2": "Juice",
-	"handitem30": "Radioactive liquid",
-	"handitem31": "Pink Champagne",
-	"handitem32": "Coconut Delight",
-	"handitem34": "Fish",
-	"handitem35": "Pink Champagne",
-	"handitem36": "Pear",
-	"handitem37": "Yummy peach",
-	"handitem38": "Orange",
-	"handitem39": "Pineapple",
-	"handitem3": "Carrot",
-	"handitem40": "Fizzy Orange",
-	"handitem41": "Sumppi-kuppi",
-	"handitem42": "Orange juice",
-	"handitem43": "Chilled Soda",
-	"handitem47": "Moodi",
-	"handitem48": "Lolly Pop",
-	"handitem4": "Ice Cream",
-	"handitem50": "Bubble Juice Bottle",
-	"handitem53": "Espresso",
-	"handitem57": "Cherry Crush Soda",
-	"handitem58": "Cup of blood",
-	"handitem5": "Milk",
-	"handitem60": "Chestnuts",
-	"handitem62": "Skull Cup of Water",
-	"handitem63": "Pop Corn",
-	"handitem66": "Banana Smoothie",
-	"handitem6": "Black Currant",
-	"handitem70": "Chicken leg",
-	"handitem71": "Toast",
-	"handitem73": "Egg Nog",
-	"handitem74": "Toasting Goblet",
-	"handitem75": "Strawberry Ice Cream",
-	"handitem76": "Anice Ice Cream",
-	"handitem77": "Chocolate Ice Cream",
-	"handitem79": "Pink Candy Floss",
-	"handitem7": "Water",
-	"handitem80": "Blue Candy Floss",
-	"handitem81": "Hot Dog",
-	"handitem83": "Juicy Apple",
-	"handitem84": "Ginger Bread Man",
-	"handitem85": "Americano",
-	"handitem86": "Frappuccino",
-	"handitem89": "Cupcake",
-	"handitem8": "Coffee",
-	"handitem92": "blue bubblegum",
-	"handitem93": "red bubblegum",
-	"handitem94": "pink bubblegum",
-	"handitem96": "Cake Slice",
-	"handitem97": "Croissant",
-	"handitem98": "Tomato",
-	"handitem99": "Aubergine",
-	"handitem9": "Decaff",
-	"handtem98": "Tomato",
+	"handitem1000": "Roos"
+    "handitem1001": "Zwarte Roos"
+    "handitem1002": "Zonnebloem"
+    "handitem1003": "Rood Boek"
+    "handitem1004": "Blauw Boek"
+    "handitem1005": "Groen Boek"
+    "handitem1006": "Bloemencadeau"
+    "handitem1007": "Onkruidje"
+    "handitem1008": "Gele Gezondheid"
+    "handitem1009": "Roze Bloempje"
+    "handitem100": "Kool"
+    "handitem1011": "Clipboard"
+    "handitem1013": "Pillen"
+    "handitem1014": "Spuit"
+    "handitem1015": "Biohazard zak"
+    "handitem1019": "Bollywood bloem"
+    "handitem101": "Bubbelende Bubble Juice"
+    "handitem1021": "Roze Hyacint"
+    "handitem1022": "Blauwe Hyacint"
+    "handitem1023": "Rood Kerststerretje "
+    "handitem1024": "Taart"
+    "handitem1025": "Zuurstok"
+    "handitem1026": "Cadeau"
+    "handitem1027": "Kaars"
+    "handitem1028": "Cereal Bowl"
+    "handitem1029": "Ballon"
+    "handitem102": "Energiedrank"
+    "handitem1030": "HiPad"
+    "handitem1031": "Habbo-lympix Fakkel"
+    "handitem1032": "Major Tom"
+    "handitem1033": "UFO"
+    "handitem1034": "Alien-ding"
+    "handitem1035": "Moersleutel"
+    "handitem1036": "Badeendje"
+    "handitem1037": "Slang"
+    "handitem1038": "Stok"
+    "handitem1039": "Afgehakte Hand"
+    "handitem103": "Banaan!"
+    "handitem1040": "Hart"
+    "handitem1041": "Inktvis"
+    "handitem1042": "Vleermuispoep"
+    "handitem1043": "Maden"
+    "handitem1044": "Dode Rat"
+    "handitem1045": "Valse Tanden"
+    "handitem1049": "Hamer"
+    "handitem104": "Avocado"
+    "handitem1051": "Verfkwast"
+    "handitem1053": "Eend"
+    "handitem1054": "Oranje Ballon"
+    "handitem1055": "Groene Ballon"
+    "handitem1056": "Blauwe Ballon"
+    "handitem1057": "Roze Ballon"
+    "handitem105": "Druiven"
+    "handitem1060": "Spray"
+    "handitem1062": "Roze Snoep Schedel"
+    "handitem1063": "Groene Snoep Schedel"
+    "handitem1064": "Blauwe Snoep Schedel"
+    "handitem1065": "Speelgoedpop"
+    "handitem1066": "Speelgoedbeer"
+    "handitem1067": "Speelgoedsoldaat"
+    "handitem1068": "Manga"
+    "handitem1069": "Strip"
+    "handitem106": "Smoothie"
+    "handitem1070": "Geel Boek"
+    "handitem1072": "Kompas"
+    "handitem1073": "Dino ei"
+    "handitem1074": "Groene Allosaurus"
+    "handitem1075": "Gele Triceratops"
+    "handitem1076": "Paarse Saurolophus"
+    "handitem1079": "Vliegend Hert"
+    "handitem107": "Groentesap"
+    "handitem1080": "Reuzenkever"
+    "handitem1081": "Watergieter"
+    "handitem1082": "Pride Vlag"
+    "handitem1083": "Griezelige Pompoen"
+    "handitem1084": "Grocery Bag"
+    "handitem1085": "Action DVD"
+    "handitem1086": "Thriller DVD"
+    "handitem1087": "Note Book"
+    "handitem1088": "Pencil"
+    "handitem1089": "Crisps (closed)"
+    "handitem1090": "Fishing pole - caught fish"
+    "handitem1091": "Fishing pole - caught boot"
+    "handitem1092": "Fishing pole - caught message in a bottle"
+    "handitem1094": "Mobiele Telefoon"
+    "handitem1095": "Hart"
+    "handitem1096": "Mobile phone"
+    "handitem109": "Habburger"
+    "handitem10": "Warm drankje"
+    "handitem111": "Krab"
+    "handitem112": "Red Chilli"
+    "handitem113": "Citrus Smoothie"
+    "handitem114": "Green Smoothie"
+    "handitem115": "Berry Smoothie"
+    "handitem116": "Lemon"
+    "handitem117": "Cookie"
+    "handitem118": "Roze Ramune"
+    "handitem119": "Blauwe Ramune"
+    "handitem11": "dubbele espresso"
+    "handitem120": "Schaafijs met bosbessensmaak"
+    "handitem121": "Schaafijs met aardbeiensmaak"
+    "handitem122": "Takoyaki"
+    "handitem127": "IJshoorntje"
+    "handitem128": "Aardbeien IJsje"
+    "handitem129": "Munt-Choco IJsje"
+    "handitem12": "bakkie troost"
+    "handitem130": "Chocolade IJsje"
+    "handitem131": "Bread"
+    "handitem132": "Shrimp"
+    "handitem133": "Broccoli"
+    "handitem134": "Water Melon"
+    "handitem135": "Donut"
+    "handitem136": "Sausages"
+    "handitem137": "Ice Lolly"
+    "handitem138": "Crisps (open)"
+    "handitem13": "espresso"
+    "handitem141": "Lichtgevend Paasei"
+    "handitem142": "IJskoud Drankje"
+    "handitem143": "Chocolade marshmallows op een stokje"
+    "handitem144": "Chocolade aardbeien op een stokje"
+    "handitem146": "Lekker Bakkie Koffie"
+    "handitem148": "Vergrootglas"
+    "handitem14": "slap bakkie"
+    "handitem15": "Warme choco"
+    "handitem16": "cappuccino"
+    "handitem17": "warme choco"
+    "handitem18": "water"
+    "handitem19": "Habbo Cola"
+    "handitem1": "thee"
+    "handitem20": "Camera"
+    "handitem21": "Pizza"
+    "handitem22": "Geel Habbo Sappie"
+    "handitem23": "Rood Habbo Sappie"
+    "handitem24": "Bubble juice uit 1978"
+    "handitem25": "iets rozes"
+    "handitem26": "Calippo"
+    "handitem27": "Thee"
+    "handitem28": "Engelse thee"
+    "handitem29": "Tomatensap"
+    "handitem2": "sap"
+    "handitem30": "Radioactieve vloeistof"
+    "handitem31": "YuccaLicious"
+    "handitem32": "Parasoldrankje"
+    "handitem34": "verse vis"
+    "handitem35": "Roze bubbels"
+    "handitem36": "Handpeer"
+    "handitem37": "Jammie perzik"
+    "handitem38": "Sinaasappel"
+    "handitem39": "Stukje ananas"
+    "handitem3": "wortel"
+    "handitem40": "Oranje bubbels"
+    "handitem41": "Koffie"
+    "handitem42": "Sinaasappelsap"
+    "handitem43": "Habbo Fris"
+    "handitem44": "Blauw lichtgevend goedje"
+    "handitem48": "Lolly"
+    "handitem4": "Vanille IJsje"
+    "handitem50": "Bubble Juice Fles"
+    "handitem53": "Shot espresso"
+    "handitem54": "Cornflakes"
+    "handitem57": "Cherry Crush frisdrank"
+    "handitem58": "Schedelsoep"
+    "handitem59": "zak met munten. Echt waar!"
+    "handitem5": "melk"
+    "handitem60": "Kastanjes"
+    "handitem62": "Giftig water"
+    "handitem63": "Popcorn"
+    "handitem66": "Bananen Smoothie"
+    "handitem6": "zwartebessensap"
+    "handitem70": "Kippenpoot"
+    "handitem71": "Toost"
+    "handitem72": "Perzik & Appel DubbelFrisss"
+    "handitem73": "Warme Choco"
+    "handitem74": "Grote Drinkbeker"
+    "handitem75": "Aardbeienijs"
+    "handitem76": "Anijsijs"
+    "handitem77": "Chocoladeijs"
+    "handitem79": "Roze suikerspin"
+    "handitem7": "water"
+    "handitem80": "Blauwe suikerspin"
+    "handitem81": "Hot Dog"
+    "handitem83": "Sappige appel"
+    "handitem84": "Peperkoekmannetje"
+    "handitem85": "Koffie verkeerd"
+    "handitem86": "Frappuccino"
+    "handitem89": "Cupcake"
+    "handitem8": "koffie"
+    "handitem92": "Blauwe Kauwgombal"
+    "handitem93": "Rode Kauwgombal"
+    "handitem94": "Roze Kauwgombal"
+    "handitem96": "Stuk Taart"
+    "handitem97": "Croissant"
+    "handitem98": "Tomaat"
+    "handitem99": "Aubergine"
+    "handitem9": "decafe"
+    "handtem98": "Tomaat"
 	"hccenter.breakdown.creditsspent": "%credits% credits spent",
 	"hccenter.breakdown.infolink": "Breakdown",
 	"hccenter.breakdown.paydayfactor.percent": "+ %percent%% as HC Payday Credits",
