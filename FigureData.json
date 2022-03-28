@@ -60987,6 +60987,9 @@
             "hiddenLayers": [
               {
                 "partType": "hrb"
+              },
+              {
+                "partType": "hr"
               }
             ]
           },
