@@ -60982,6 +60982,11 @@
                 "colorable": true,
                 "index": 0,
                 "colorindex": 1
+               }
+            ],
+            "hiddenLayers": [
+              {
+                "partType": "hrb"
               }
             ]
           },
