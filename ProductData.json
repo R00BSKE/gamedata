@@ -2,6 +2,41 @@
   "productdata": {
     "product": [
 	    {
+            "code": "HCBL",
+            "name": "I | U",
+            "description": "I love you!"
+        },
+		{
+            "code": "HCRS",
+            "name": "I | U",
+            "description": "I love you!"
+        },
+		{
+            "code": "HCRD",
+            "name": "I | U",
+            "description": "I love you!"
+        },
+		{
+            "code": "HCPS",
+            "name": "I | U",
+            "description": "I love you!"
+        },
+		{
+            "code": "HCOR",
+            "name": "I | U",
+            "description": "I love you!"
+        },
+		{
+            "code": "HCGR",
+            "name": "I | U",
+            "description": "I love you!"
+        },
+		{
+            "code": "HCGL",
+            "name": "I | U",
+            "description": "I love you!"
+        },
+	    {
             "code": "blok",
             "name": "Kleur Blok",
             "description": ""
