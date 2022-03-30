@@ -18810,7 +18810,7 @@
 	"inventory.title": "Inventaris",
 	"inventory.trading.accept": "Ruil accepteren",
 	"inventory.trading.accepts": "Accepteer deze ruiling",
-	"inventory.trading.areoffering": "biedt:",
+	"inventory.trading.areoffering": "biedt",
 	"inventory.trading.button.restore": "Ruil bevestigen",
 	"inventory.trading.confirm": "LAATSTE BEVESTIGING: dubbelcheck of alle items correct zijn.",
 	"inventory.trading.countdown": "Even wachten... %counter%",
