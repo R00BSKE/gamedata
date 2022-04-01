@@ -23638,7 +23638,7 @@
 	"notifications.text.achievement.reward.1": "Reward: %activitypoints% Seashells",
 	"notifications.text.achievement.reward.2": "Reward: %activitypoints% Hearts",
 	"notifications.text.achievement.unlocked": "You unlocked the achievement",
-	"notifications.text.achievement": "You unlocked the achievement \"%badge_name%\"",
+	"notifications.text.achievement": "Je hebt een achievement vrijgespeeld: \"%badge_name%\"",
 	"notifications.text.activitypoints.0": "%change% Pixels received, you now have %count%.",
 	"notifications.text.activitypoints.1": "%change% Seashells received, you now have %count%.",
 	"notifications.text.activitypoints.2": "%change% Hearts received, you now have %count%.",
