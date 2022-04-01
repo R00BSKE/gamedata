@@ -1,6 +1,86 @@
 {
   "productdata": {
     "product": [
+		{
+            "code": "habbox_shone_mini_photos",
+            "name": "Mini foto's",
+            "description": ""
+        },
+		{
+            "code": "val_1",
+            "name": "Valentijn 2022",
+            "description": ""
+        },
+        {
+            "code": "val_2",
+            "name": "Valentijn 2022",
+            "description": ""
+        },
+        {
+            "code": "val_3",
+            "name": "Valentijn 2022",
+            "description": ""
+        },
+        {
+            "code": "val_4",
+            "name": "Valentijn 2022",
+            "description": ""
+        },
+        {
+            "code": "val_5",
+            "name": "Valentijn 2022",
+            "description": ""
+        },
+        {
+            "code": "val_6",
+            "name": "Valentijn 2022",
+            "description": ""
+        },
+		{
+            "code": "bitos_corva_flower3",
+            "name": "Vetplant",
+            "description": ""
+        },
+		{
+            "code": "bitos_corva_flower2",
+            "name": "Plantje met besjes",
+            "description": ""
+        },
+		{
+            "code": "petiteplante",
+            "name": "Kleine plant",
+            "description": ""
+        },
+		{
+            "code": "petitcactus",
+            "name": "Kleine cactus met bloem",
+            "description": ""
+        },
+		{
+            "code": "hcity_potfleur2",
+            "name": "Bolletjesplant",
+            "description": ""
+        },
+		{
+            "code": "hcity_potfleur3",
+            "name": "Groeiende plant",
+            "description": ""
+        },
+		{
+            "code": "hcity_potfleur4",
+            "name": "Groeiende plant",
+            "description": ""
+        },
+		{
+            "code": "hcity_potfleur5",
+            "name": "Groeiende plant",
+            "description": ""
+        },
+		{
+            "code": "hcity_potfleur6",
+            "name": "Plant in kopje",
+            "description": ""
+        },
 	    {
             "code": "Coralking_Schelpplant",
             "name": "Schelpplant",
@@ -93,7 +173,7 @@
         },
 		{
             "code": "hcity_potfleur1",
-            "name": "Plantje",
+            "name": "Plantje met besjes",
             "description": ""
         },
 		{
