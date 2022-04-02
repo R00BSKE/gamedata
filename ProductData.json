@@ -2,6 +2,316 @@
   "productdata": {
     "product": [
 		{
+            "code": "bitos_corva_bear",
+            "name": "Teddybeer",
+            "description": ""
+        },
+		{
+            "code": "bitos_corva_sink",
+            "name": "Gootsteen",
+            "description": ""
+        },
+		{
+            "code": "bitos_corva_longbonnie",
+            "name": "Gebogen kussen",
+            "description": ""
+        },
+		{
+            "code": "bitos_corva_roundbonnie",
+            "name": "Rond kussen",
+            "description": ""
+        },
+		{
+            "code": "bitos_corva_squarebonnie",
+            "name": "Vierkant kussen",
+            "description": ""
+        },
+		{
+            "code": "boisson_bleu",
+            "name": "Flesje water",
+            "description": ""
+        },
+		{
+            "code": "boisson_marron",
+            "name": "Koffiebeker",
+            "description": ""
+        },
+		{
+            "code": "boite_bois",
+            "name": "Houten doos",
+            "description": ""
+        },
+		{
+            "code": "boite_outils2",
+            "name": "Gereedschapskist",
+            "description": ""
+        },
+		{
+            "code": "bougie_1",
+            "name": "Kaars",
+            "description": ""
+        },
+		{
+            "code": "bouteille_vin",
+            "name": "Wijnfles",
+            "description": ""
+        },
+		{
+            "code": "cake_fruitsrouge",
+            "name": "Taart met rode vruchten",
+            "description": ""
+        },
+		{
+            "code": "cousin_1",
+            "name": "Kussen",
+            "description": ""
+        },
+		{
+            "code": "cousin_2",
+            "name": "Kussen",
+            "description": ""
+        },
+		{
+            "code": "coussin_bleu",
+            "name": "Blauw kussen",
+            "description": ""
+        },
+		{
+            "code": "coussin_gris",
+            "name": "Grijs kussen",
+            "description": ""
+        },
+		{
+            "code": "coussin_rouge",
+            "name": "Rood kussen",
+            "description": ""
+        },
+		{
+            "code": "couto_1",
+            "name": "Mes",
+            "description": ""
+        },
+		{
+            "code": "decor_carotte",
+            "name": "Wortel",
+            "description": ""
+        },
+		{
+            "code": "epee_1",
+            "name": "Zwaard",
+            "description": ""
+        },
+		{
+            "code": "eponge_1",
+            "name": "Spons",
+            "description": ""
+        },
+		{
+            "code": "extincteur_1",
+            "name": "Brandblusser",
+            "description": ""
+        },
+		{
+            "code": "gants_boxe",
+            "name": "Boxhandschoenen",
+            "description": ""
+        },
+		{
+            "code": "pelle",
+            "name": "Schop",
+            "description": ""
+        },
+		{
+            "code": "pioche",
+            "name": "Houweel",
+            "description": ""
+        },
+		{
+            "code": "plateau_colores",
+            "name": "Plateau",
+            "description": ""
+        },
+		{
+            "code": "plat_vide",
+            "name": "Leeg bord",
+            "description": ""
+        },
+		{
+            "code": "poster_calendrier",
+            "name": "Kalender",
+            "description": ""
+        },
+		{
+            "code": "pot_cafe",
+            "name": "Potje koffie",
+            "description": ""
+        },
+		{
+            "code": "sachet_cafe",
+            "name": "Zakje koffie",
+            "description": ""
+        },
+		{
+            "code": "seau_bonbons",
+            "name": "Emmer snoepgoed",
+            "description": ""
+        },
+		{
+            "code": "sucettes",
+            "name": "Lolly's",
+            "description": ""
+        },
+		{
+            "code": "tomates_1",
+            "name": "Groenten",
+            "description": ""
+        },
+		{
+            "code": "Boek_goede_kant",
+            "name": "Sprookjesboek",
+            "description": ""
+        },
+		{
+            "code": "cstm_bath_towel",
+            "name": "Badhanddoek",
+            "description": ""
+        },
+		{
+            "code": "Decoratie_Pot",
+            "name": "Ronde pot",
+            "description": ""
+        },
+		{
+            "code": "Elegant_Kussen",
+            "name": "Elegant kussen",
+            "description": ""
+        },
+		{
+            "code": "Gebreide_onderlegger",
+            "name": "Gebreide onderlegger",
+            "description": ""
+        },
+		{
+            "code": "Gewone_plank",
+            "name": "Plank",
+            "description": ""
+        },
+		{
+            "code": "Gordijn_op_maat",
+            "name": "Gordijn",
+            "description": ""
+        },
+		{
+            "code": "habbox_shone_affaires_ecole",
+            "name": "Schoolgerief",
+            "description": ""
+        },
+		{
+            "code": "habbox_shone_affiches_murales",
+            "name": "Poster",
+            "description": ""
+        },
+		{
+            "code": "habbox_shone_appareil_photo",
+            "name": "Fototoestel",
+            "description": ""
+        },
+		{
+            "code": "habbox_shone_bocal_stylos",
+            "name": "Pennenhouder",
+            "description": ""
+        },
+		{
+            "code": "habbox_shone_boite_1",
+            "name": "Dozen",
+            "description": ""
+        },
+		{
+            "code": "habbox_shone_boite_2",
+            "name": "Doos",
+            "description": ""
+        },
+		{
+            "code": "habbox_shone_bouquins_1",
+            "name": "Boeken",
+            "description": ""
+        },
+		{
+            "code": "habbox_shone_bouquins_2",
+            "name": "Boeken",
+            "description": ""
+        },
+		{
+            "code": "habbox_shone_cadre_clair",
+            "name": "Fotokader",
+            "description": ""
+        },
+		{
+            "code": "habbox_shone_cadre_fonce",
+            "name": "Fotokader",
+            "description": ""
+        },
+		{
+            "code": "habbox_shone_canard_metal",
+            "name": "Mini metalen eendje",
+            "description": ""
+        },
+		{
+            "code": "habbox_shone_cassettes",
+            "name": "Cassettes",
+            "description": ""
+        },
+		{
+            "code": "habbox_shone_console1",
+            "name": "Spelconsole",
+            "description": ""
+        },
+		{
+            "code": "habbox_shone_console2",
+            "name": "Spelconsole",
+            "description": ""
+        },
+		{
+            "code": "habbox_shone_glaces",
+            "name": "Ijsjes in staander",
+            "description": ""
+        },
+		{
+            "code": "habbox_shone_lettres",
+            "name": "Brief",
+            "description": ""
+        },
+		{
+            "code": "habbox_shone_livre_bleu",
+            "name": "Blauwe schrift",
+            "description": ""
+        },
+		{
+            "code": "habbox_shone_livre_noir",
+            "name": "Zwarte schrift",
+            "description": ""
+        },
+		{
+            "code": "habbox_shone_livre_orange",
+            "name": "Oranje schrift",
+            "description": ""
+        },
+		{
+            "code": "habbox_shone_livre_skull",
+            "name": "Schrift met doodshoofd",
+            "description": ""
+        },
+		{
+            "code": "habbox_shone_maki_japonais",
+            "name": "Sushi maki",
+            "description": ""
+        },
+		{
+            "code": "habbox_shone_manette",
+            "name": "Mini controller",
+            "description": ""
+        },
+		{
             "code": "habbox_shone_mini_photos",
             "name": "Mini foto's",
             "description": ""
