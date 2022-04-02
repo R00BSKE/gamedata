@@ -2,6 +2,681 @@
   "productdata": {
     "product": [
 		{
+            "code": "hcity_poster1",
+            "name": "Poster",
+            "description": ""
+        },
+		{
+            "code": "poubelle_bain",
+            "name": "Vuilnisemmer",
+            "description": ""
+        },
+		{
+            "code": "hcity_produitentretien",
+            "name": "Schoonmaakproducten",
+            "description": ""
+        },
+		{
+            "code": "produit_nequam",
+            "name": "Doucheproducten",
+            "description": ""
+        },
+		{
+            "code": "rosasd_olimpo",
+            "name": "Rozenstruik",
+            "description": ""
+        },
+		{
+            "code": "hcity_seaueau",
+            "name": "Emmer water",
+            "description": ""
+        },
+		{
+            "code": "sechecheveux_nequam",
+            "name": "Haardroger",
+            "description": ""
+        },
+		{
+            "code": "secret_door",
+            "name": "Geheime deur",
+            "description": ""
+        },
+		{
+            "code": "serviette_bleu",
+            "name": "Blauwe handdoek",
+            "description": ""
+        },
+		{
+            "code": "serviette_jaune",
+            "name": "Gele handdoek",
+            "description": ""
+        },
+		{
+            "code": "serviette_rose",
+            "name": "Roze handdoek",
+            "description": ""
+        },
+		{
+            "code": "serviette_vert",
+            "name": "Groene handdoek",
+            "description": ""
+        },
+		{
+            "code": "shone_bloc50s",
+            "name": "Keukenblok",
+            "description": ""
+        },
+		{
+            "code": "shone_livresillustres",
+            "name": "Boeken",
+            "description": ""
+        },
+		{
+            "code": "hcity_singepeluche",
+            "name": "Pluche aap",
+            "description": ""
+        },
+		{
+            "code": "hcity_solmetro1x1",
+            "name": "Metrotegel",
+            "description": ""
+        },
+		{
+            "code": "spaarpot",
+            "name": "Spaarpot",
+            "description": ""
+        },
+		{
+            "code": "SS_ktchn_1",
+            "name": "Blauw keukenblok",
+            "description": ""
+        },
+		{
+            "code": "SS_ktchn_2",
+            "name": "Rood keukenblok",
+            "description": ""
+        },
+		{
+            "code": "SS_ktchn_3",
+            "name": "Paars keukenblok",
+            "description": ""
+        },
+		{
+            "code": "SS_ktchn_4",
+            "name": "Groen keukenblok",
+            "description": ""
+        },
+		{
+            "code": "SS_ktchn_5",
+            "name": "Zwart keukenblok",
+            "description": ""
+        },
+		{
+            "code": "SS_ktchn_mic",
+            "name": "Magnetron",
+            "description": ""
+        },
+		{
+            "code": "stange_1",
+            "name": "Paaltjes",
+            "description": ""
+        },
+		{
+            "code": "stange_2",
+            "name": "Paaltjes",
+            "description": ""
+        },
+		{
+            "code": "hcity_stetoscope",
+            "name": "Stetoscoop",
+            "description": ""
+        },
+		{
+            "code": "support_serviette",
+            "name": "Handdoekhanger",
+            "description": ""
+        },
+		{
+            "code": "tableau_seyra1",
+            "name": "Schilderij",
+            "description": ""
+        },
+		{
+            "code": "tableau_seyra2",
+            "name": "Prikbord",
+            "description": ""
+        },
+		{
+            "code": "tableau_seyra3",
+            "name": "Schilderijen",
+            "description": ""
+        },
+		{
+            "code": "hcity_tablemixage",
+            "name": "Draaitafel",
+            "description": ""
+        },
+		{
+            "code": "teddybeer",
+            "name": "Teddybeer",
+            "description": ""
+        },
+		{
+            "code": "city_tower",
+            "name": "Mini hoteltoren",
+            "description": ""
+        },
+		{
+            "code": "vasca_bw",
+            "name": "Bad",
+            "description": ""
+        },
+		{
+            "code": "vasechip",
+            "name": "Gouden vaas",
+            "description": ""
+        },
+		{
+            "code": "vitre_bain",
+            "name": "Raam",
+            "description": ""
+        },
+		{
+            "code": "wineglass",
+            "name": "Wijn",
+            "description": ""
+        },
+		{
+            "code": "yvess5_EchelleCorde",
+            "name": "Touwladder",
+            "description": ""
+        },
+		{
+            "code": "Yvess5_eolienne",
+            "name": "Molen",
+            "description": ""
+        },
+		{
+            "code": "yvess5_Niko_LesDieux",
+            "name": "Godenposter",
+            "description": ""
+        },
+		{
+            "code": "yvess5_PlacardConsoles",
+            "name": "Kluisje",
+            "description": ""
+        },
+		{
+            "code": "Yvess5_rideaux_rouge",
+            "name": "Rood gordijntje",
+            "description": ""
+        },
+		{
+            "code": "yvess5_rollermince",
+            "name": "Roller",
+            "description": ""
+        },
+		{
+            "code": "accessoire_nequam",
+            "name": "Toiletgerief",
+            "description": ""
+        },
+		{
+            "code": "affaires_sport",
+            "name": "Sportgerief",
+            "description": ""
+        },
+		{
+            "code": "hcity_aretespoisson",
+            "name": "Dode vis",
+            "description": ""
+        },
+		{
+            "code": "hcity_aspirateur",
+            "name": "Stofzuiger",
+            "description": ""
+        },
+		{
+            "code": "hcity_assiettepatisserie",
+            "name": "Patisserie",
+            "description": ""
+        },
+		{
+            "code": "hcity_ballonvolley",
+            "name": "Volleybal",
+            "description": ""
+        },
+		{
+            "code": "bal_nequam",
+            "name": "Brievenbus",
+            "description": ""
+        },
+		{
+            "code": "Baton_De_Zhynk",
+            "name": "Stok",
+            "description": ""
+        },
+		{
+            "code": "bike_colour",
+            "name": "Fiets",
+            "description": ""
+        },
+		{
+            "code": "bl_avitre",
+            "name": "Raam",
+            "description": ""
+        },
+		{
+            "code": "bois_hbct_chair",
+            "name": "Houten barkruk",
+            "description": ""
+        },
+		{
+            "code": "bottleale",
+            "name": "Flesje",
+            "description": ""
+        },
+		{
+            "code": "hcity_boussole",
+            "name": "Zakhorloge",
+            "description": ""
+        },
+		{
+            "code": "hcity_carton",
+            "name": "Kartonnen doos",
+            "description": ""
+        },
+		{
+            "code": "hcity_casserole",
+            "name": "Kookpot",
+            "description": ""
+        },
+		{
+            "code": "casserole_nequam",
+            "name": "Pan",
+            "description": ""
+        },
+		{
+            "code": "hcity_champagne",
+            "name": "Champagne",
+            "description": ""
+        },
+		{
+            "code": "hcity_chapeauanniv",
+            "name": "Feesthoed",
+            "description": ""
+        },
+		{
+            "code": "hcity_cocktails",
+            "name": "Cocktail",
+            "description": ""
+        },
+		{
+            "code": "coffeetea",
+            "name": "Klein kopje",
+            "description": ""
+        },
+		{
+            "code": "coussin1_nequam",
+            "name": "Vierkant kussen",
+            "description": ""
+        },
+		{
+            "code": "coussin2_nequam",
+            "name": "Kussen",
+            "description": ""
+        },
+		{
+            "code": "hcity_coussinallonge",
+            "name": "Rechthoekig kussen",
+            "description": ""
+        },
+		{
+            "code": "hcity_coussinturquoise",
+            "name": "Turquoise kussen",
+            "description": ""
+        },
+		{
+            "code": "City_Croco",
+            "name": "Grote krokodil",
+            "description": ""
+        },
+		{
+            "code": "custom_hb1_brom",
+            "name": "Bureau",
+            "description": ""
+        },
+		{
+            "code": "custom_hb1_croom",
+            "name": "Ladenkast",
+            "description": ""
+        },
+		{
+            "code": "dessertcafe_c17_shel1",
+            "name": "Schap",
+            "description": ""
+        },
+		{
+            "code": "diner_crxc_0",
+            "name": "Leeg bord",
+            "description": ""
+        },
+		{
+            "code": "DIY_a028_LuckyLantern",
+            "name": "Chinese lantaarn",
+            "description": ""
+        },
+		{
+            "code": "DIY_a035_CeladonVase",
+            "name": "Vaas",
+            "description": ""
+        },
+		{
+            "code": "DIY_a041_RedTeapots",
+            "name": "Theepot",
+            "description": ""
+        },
+		{
+            "code": "DIY_a042_HangingFishbowl",
+            "name": "Hangende visbokaal",
+            "description": ""
+        },
+		{
+            "code": "hcity_extincteur",
+            "name": "Brandblusser",
+            "description": ""
+        },
+		{
+            "code": "City_Fish",
+            "name": "Dansende vis",
+            "description": ""
+        },
+		{
+            "code": "flare_kin00002",
+            "name": "Pennenzak",
+            "description": ""
+        },
+		{
+            "code": "furni_carottegeante",
+            "name": "Wortel",
+            "description": ""
+        },
+		{
+            "code": "furni_fenetreverte",
+            "name": "Raam",
+            "description": ""
+        },
+		{
+            "code": "furni_line_array",
+            "name": "Line array luidspreker",
+            "description": ""
+        },
+		{
+            "code": "furni_projecteu",
+            "name": "Projector",
+            "description": ""
+        },
+		{
+            "code": "furni_stroboscope",
+            "name": "Stroboscoop",
+            "description": ""
+        },
+		{
+            "code": "haushalt_feuerloescher",
+            "name": "Brandblusser",
+            "description": ""
+        },
+		{
+            "code": "haushalt_heizkoerper",
+            "name": "Verwarming",
+            "description": ""
+        },
+		{
+            "code": "hbox_bear",
+            "name": "Beer",
+            "description": ""
+        },
+		{
+            "code": "hcity_horlogebleue",
+            "name": "Blauwe klok",
+            "description": ""
+        },
+		{
+            "code": "hcity_hotdog",
+            "name": "Hotdogs",
+            "description": ""
+        },
+		{
+            "code": "hp_umbrella",
+            "name": "Paraplu",
+            "description": ""
+        },
+		{
+            "code": "Jens_c17_Schaar",
+            "name": "Schaar",
+            "description": ""
+        },
+		{
+            "code": "keuken_blokje1",
+            "name": "Keukenblok",
+            "description": ""
+        },
+		{
+            "code": "keuken_blokje2",
+            "name": "Keukenblok",
+            "description": ""
+        },
+		{
+            "code": "keuken_blokje3",
+            "name": "Keukenblok",
+            "description": ""
+        },
+		{
+            "code": "keuken_oventje",
+            "name": "Fornuis met oven",
+            "description": ""
+        },
+		{
+            "code": "keuken_wasbak1",
+            "name": "Gootsteen",
+            "description": ""
+        },
+		{
+            "code": "keuken_wasbak3",
+            "name": "Gootsteen",
+            "description": ""
+        },
+		{
+            "code": "kitchen_cabinet",
+            "name": "Keukenblok",
+            "description": ""
+        },
+		{
+            "code": "kitchen_stove",
+            "name": "Fornuis met oven",
+            "description": ""
+        },
+		{
+            "code": "klaxon",
+            "name": "Toeter",
+            "description": ""
+        },
+		{
+            "code": "ktchn11_block",
+            "name": "Keukenblok",
+            "description": ""
+        },
+		{
+            "code": "ktchn11_sink",
+            "name": "Gootsteen",
+            "description": ""
+        },
+		{
+            "code": "ktchn_wash",
+            "name": "Wasmachine",
+            "description": ""
+        },
+		{
+            "code": "lapinpeluche",
+            "name": "Pluche konijn",
+            "description": ""
+        },
+		{
+            "code": "lm_playsation4",
+            "name": "Playstation 4",
+            "description": ""
+        },
+		{
+            "code": "lush_c18_chimney1",
+            "name": "Schoorsteen",
+            "description": ""
+        },
+		{
+            "code": "lush_c18_chimney2",
+            "name": "Schoorsteen",
+            "description": ""
+        },
+		{
+            "code": "hcity_masquetribu1",
+            "name": "Masker",
+            "description": ""
+        },
+		{
+            "code": "hcity_masquetribu2",
+            "name": "Masker",
+            "description": ""
+        },
+		{
+            "code": "hcity_masquetribu3",
+            "name": "Masker",
+            "description": ""
+        },
+		{
+            "code": "ma_vitres",
+            "name": "Raam",
+            "description": ""
+        },
+		{
+            "code": "metalrod",
+            "name": "Metalen paal",
+            "description": ""
+        },
+		{
+            "code": "micropigs",
+            "name": "Mini varken",
+            "description": ""
+        },
+		{
+            "code": "miniavion",
+            "name": "Mini vliegtuig",
+            "description": ""
+        },
+		{
+            "code": "miniavionmilitaire",
+            "name": "Mini militair vliegtuig",
+            "description": ""
+        },
+		{
+            "code": "minitrophargent",
+            "name": "Zilveren trofee",
+            "description": ""
+        },
+		{
+            "code": "minitrophbronze",
+            "name": "Bronzen trofee",
+            "description": ""
+        },
+		{
+            "code": "minitrophor",
+            "name": "Gouden trofee",
+            "description": ""
+        },
+		{
+            "code": "moiodexd",
+            "name": "Toilet",
+            "description": ""
+        },
+		{
+            "code": "Nawloh_Poubelle_City",
+            "name": "Metalen vuilnisemmer",
+            "description": ""
+        },
+		{
+            "code": "ngh16_cigs",
+            "name": "Sigaretten",
+            "description": ""
+        },
+		{
+            "code": "no_vitres",
+            "name": "Raam",
+            "description": ""
+        },
+		{
+            "code": "opti_chlaviko",
+            "name": "Piano",
+            "description": ""
+        },
+		{
+            "code": "oursonchic",
+            "name": "Teddy met strik",
+            "description": ""
+        },
+		{
+            "code": "oursonpeluche",
+            "name": "Teddy met shirt",
+            "description": ""
+        },
+		{
+            "code": "ours_LGBT",
+            "name": "Teddy met regenboogsjaal",
+            "description": ""
+        },
+		{
+            "code": "overige_fruitschaal",
+            "name": "Fruitschaal",
+            "description": ""
+        },
+		{
+            "code": "overige_pcmuis",
+            "name": "Computermuis",
+            "description": ""
+        },
+		{
+            "code": "pandarouxpeluche",
+            "name": "Pluche panda",
+            "description": ""
+        },
+		{
+            "code": "papier_ku",
+            "name": "Toiletpapier",
+            "description": ""
+        },
+		{
+            "code": "peluche3D",
+            "name": "Pluche met 3D-bril",
+            "description": ""
+        },
+		{
+            "code": "peluchepirate",
+            "name": "Pluche piraat",
+            "description": ""
+        },
+		{
+            "code": "peluchevicking",
+            "name": "Pluche viking",
+            "description": ""
+        },
+		{
+            "code": "PlumeAnciens",
+            "name": "Oud schrijfgerief",
+            "description": ""
+        },
+		{
+            "code": "popcorn",
+            "name": "Popcorn",
+            "description": ""
+        },
+		{
             "code": "bitos_corva_bear",
             "name": "Teddybeer",
             "description": ""
