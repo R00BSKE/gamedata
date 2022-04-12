@@ -2,6 +2,11 @@
   "productdata": {
     "product": [
 		{
+            "code": "ads_durex_vend",
+            "name": "Condoom Automaat",
+            "description": ""
+        },
+		{
             "code": "hcity_poster1",
             "name": "Poster",
             "description": ""
